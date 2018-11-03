@@ -26,7 +26,7 @@ def line(img, pt1, pt2, color, style='solid'):
         i+=1
 
 if len(sys.argv) < 3:
-    print 'Please enter a filename for the blank scouting report and a data file.'
+    print('Please enter a filename for the blank scouting report and a data file.')
     exit(0)
 
 filename = sys.argv[1].split('.')[0]
