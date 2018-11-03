@@ -22,7 +22,8 @@ def get_roster(team_code):
         player_fields = player.findAll("td")
 
         for i in range(len(headers)):
-            player_dict[headers[i]] = player_fields[i].getText(strip=True)
+            to_add = player_fields[i].getText(strip=True)
+            player_dict[headers[i]] = to_add if to_add else "0"
 
         to_return.append(player_dict)
 
