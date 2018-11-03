@@ -97,4 +97,4 @@ for entry in get_roster('457'):
     # flyballRight(img, (1200, 200), 0, 300)
     # END OF MARKUP PROCESS
 
-    cv2.imwrite('export/' + filename + '_markedup' + str(counter) + '.png', img)
+    cv2.imwrite('export/' + filename + '_markedup' + entry['Jersey'] + '.png', img)
