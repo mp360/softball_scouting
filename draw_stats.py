@@ -24,12 +24,18 @@ def line(img, pt1, pt2, color, style='solid'):
         if i%2==1:
             cv2.line(img,s,e,color)
         i+=1
+
+
 def text(img, string, pos):
     cv2.putText(img, string, pos, cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 0, 0))
 def flyballLeft(img, pos, rot, length=100):
     cv2.ellipse(img, pos, (length, 20), rot, 60, 220, (0, 0, 0))
 def flyballRight(img, pos, rot, length=100):
     cv2.ellipse(img, pos, (length, 20), rot, -40, 120, (0, 0, 0))
+
+# calculates the WOBA
+def calculateWoba(slugPerc, obp):
+    return (slugPerc + (obp*2))/3
 
 if len(sys.argv) < 3:
     print('Please enter a filename for the blank scouting report and a data file.')
