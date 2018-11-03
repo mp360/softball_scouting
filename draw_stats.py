@@ -46,8 +46,6 @@ filename = sys.argv[1].split('.')[0]
 dataFile = sys.argv[2]
 counter = 0;
 
-print(get_roster('457')[0])
-
 for entry in get_roster('457'):
     counter += 1;
     img = cv2.imread(filename + '.png')
@@ -66,24 +64,26 @@ for entry in get_roster('457'):
 
     try:
         text(img, entry['Player'], (150, 80))
+        text(img, entry['Jersey'], (700, 80))
+        text(img, entry['Pos'], (1420, 80))
         text(img, calculateWoba(float(entry['SlgPct']), float(entry['OBPct'])), (150, 253))
         text(img, entry['SB'], (145, 323))
         text(img, entry['CS'], (220, 323))
-        text(img, '123', (100, 370))
+        text(img, entry['BA'][1:], (100, 370))
         text(img, entry['AB'], (240, 370))
-        text(img, 'run', (120, 429))
-        text(img, 'run', (270, 429))
-        text(img, '2b', (140, 488))
-        text(img, '3b', (250, 488))
-        text(img, 'hr', (100, 547))
-        text(img, 'rbi', (240, 547))
-        text(img, '50', (140, 606))
-        text(img, '50', (300, 606))
-        text(img, 'bb', (130, 665))
-        text(img, 'k', (240, 665))
-        text(img, 'hbp', (130, 724))
-        text(img, 'sf', (130, 783))
-        text(img, 'sh', (240, 783))
+        text(img, entry['R'], (120, 429))
+        text(img, entry['H'], (270, 429))
+        text(img, entry['2B'], (140, 488))
+        text(img, entry['3B'], (250, 488))
+        text(img, entry['HR'], (100, 547))
+        text(img, entry['RBI'], (240, 547))
+        text(img, entry['SlgPct'][1:], (140, 606))
+        text(img, entry['OBPct'][1:], (300, 606))
+        text(img, entry['BB'], (130, 665))
+        text(img, entry['K'], (240, 665))
+        text(img, entry['HBP'], (130, 724))
+        text(img, entry['SF'], (130, 783))
+        text(img, entry['SH'], (240, 783))
     except ValueError:
         print("invalid entry")
 
