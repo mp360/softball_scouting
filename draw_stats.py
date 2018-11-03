@@ -38,12 +38,11 @@ def flyballRight(img, pos, rot, length=100):
 def calculateWoba(slugPerc, obp):
     return str(round((slugPerc + (obp*2))/3, 2))
 
-if len(sys.argv) < 3:
+if len(sys.argv) < 2:
     print('Please enter a filename for the blank scouting report and a data file.')
     exit(0)
 
 filename = sys.argv[1].split('.')[0]
-dataFile = sys.argv[2]
 counter = 0;
 
 for entry in get_roster('457'):
