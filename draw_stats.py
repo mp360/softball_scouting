@@ -1,8 +1,9 @@
 import cv2
 import numpy as np
 import sys
+from genStats import get_roster
 
-def line(img, pt1, pt2, color, style='solid'):
+def line(img, pt1, pt2, style='solid'):
   if style is 'solid':
     cv2.line(img, (200, 200), (300, 300), (0, 0, 0))
   elif style is 'dotted':
@@ -22,7 +23,7 @@ def line(img, pt1, pt2, color, style='solid'):
         s=e
         e=p
         if i%2==1:
-            cv2.line(img,s,e,color)
+            cv2.line(img,s,e,(0, 0, 0))
         i+=1
 
 
@@ -45,7 +46,21 @@ filename = sys.argv[1].split('.')[0]
 dataFile = sys.argv[2]
 img = cv2.imread(filename + '.png')
 
+# get_roster('457')
+
 # START OF MARKUP PROCESS
+# choice = 1, 2, 3, or 4
+choice = 4
+
+if choice is 1:
+    cv2.ellipse(img, ((70, 195), (75, 50), 0), (0, 0, 0))
+elif choice is 2:
+    cv2.ellipse(img, ((145, 195), (75, 50), 0), (0, 0, 0))
+elif choice is 3:
+    cv2.ellipse(img, ((265, 195), (160, 50), 0), (0, 0, 0))
+elif choice is 4:
+    cv2.ellipse(img, ((400, 195), (120, 50), 0), (0, 0, 0))
+
 text(img, 'Enoch Kumala', (150, 80))
 text(img, 'WOOBAAII', (150, 253))
 text(img, '99', (145, 323))
@@ -66,15 +81,15 @@ text(img, 'hbp', (130, 724))
 text(img, 'sf', (130, 783))
 text(img, 'sh', (240, 783))
 
-line(img, (200, 200), (300, 300), (0, 0, 0))
+# line(img, (200, 200), (300, 300))
 
-line(img, (300, 200), (400, 300), (0, 0, 0), style='dotted')
+# line(img, (300, 200), (400, 300), style='dotted')
 
-flyballLeft(img, (500, 200), 0)
+# flyballLeft(img, (500, 200), 0)
 
-flyballRight(img, (800, 200), 0)
+# flyballRight(img, (800, 200), 0)
 
-flyballRight(img, (1200, 200), 0, 300)
+# flyballRight(img, (1200, 200), 0, 300)
 # END OF MARKUP PROCESS
 
 cv2.imwrite(filename + '_markedup.png', img)
