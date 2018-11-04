@@ -57,17 +57,6 @@ for entry in players:
     img = cv2.imread('blankScouting.png')
 
     # START OF MARKUP PROCESS
-    # choice = 1, 2, 3, or 4
-    choice = 4
-
-    if choice is 1:
-        cv2.ellipse(img, ((70, 195), (75, 50), 0), (0, 0, 0))
-    elif choice is 2:
-        cv2.ellipse(img, ((145, 195), (75, 50), 0), (0, 0, 0))
-    elif choice is 3:
-        cv2.ellipse(img, ((265, 195), (160, 50), 0), (0, 0, 0))
-    elif choice is 4:
-        cv2.ellipse(img, ((400, 195), (120, 50), 0), (0, 0, 0))
 
     try:
         text(img, entry['Player'], (150, 80))
