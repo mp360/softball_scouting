@@ -1,428 +1,612 @@
 Player: Wike, Taylor
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 1 - Play: Wike,T singled through the left side (2-1 BKB)3a Ramsey,K advanced to third.
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 1
+Play: Wike,T singled through the left side (2-1 BKB)3a Ramsey,K advanced to third.
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 1 - Play: Pickett,B struck out swinging (0-2 KFS)3a Wike,T stole second.
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 1
+Play: Pickett,B struck out swinging (0-2 KFS)3a Wike,T stole second.
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 3 - Play: Wike,T walked (3-0 BBBB).
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 3
+Play: Wike,T walked (3-0 BBBB).
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 3 - Play: Wike,T stole second3a DeBerry,D stole home.
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 3
+Play: Wike,T stole second3a DeBerry,D stole home.
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 3 - Play: Pickett,B singled through the right side, RBI (1-0 B)3a Wike,T scored.
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 3
+Play: Pickett,B singled through the right side, RBI (1-0 B)3a Wike,T scored.
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 4 - Play: Wike,T grounded out to 2b (2-1 FBB).
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 4
+Play: Wike,T grounded out to 2b (2-1 FBB).
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 6 - Play: Wike,T singled to center field, RBI (3-1 BBBK)3a Ramsey,K scored, unearned.
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 6
+Play: Wike,T singled to center field, RBI (3-1 BBBK)3a Ramsey,K scored, unearned.
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 6 - Play: Wike,T out at first 1b unassisted, runner left early.
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 6
+Play: Wike,T out at first 1b unassisted, runner left early.
 
-Game 3: Campbell vs. North Carolina - Inning Number: 1 - Play: Wike,T hit by pitch (0-0).
+Game 3: Campbell vs. North Carolina - Inning Number: 1
+Play: Wike,T hit by pitch (0-0).
 
-Game 3: Campbell vs. North Carolina - Inning Number: 1 - Play: Pickett,B doubled to left field, RBI (2-2 BBFF)3a Wike,T scored.
+Game 3: Campbell vs. North Carolina - Inning Number: 1
+Play: Pickett,B doubled to left field, RBI (2-2 BBFF)3a Wike,T scored.
 
-Game 3: Campbell vs. North Carolina - Inning Number: 3 - Play: Wike,T grounded out to 1b unassisted (1-0 B).
+Game 3: Campbell vs. North Carolina - Inning Number: 3
+Play: Wike,T grounded out to 1b unassisted (1-0 B).
 
-Game 3: Campbell vs. North Carolina - Inning Number: 5 - Play: Wike,T doubled to center field (3-2 BBBKF).
+Game 3: Campbell vs. North Carolina - Inning Number: 5
+Play: Wike,T doubled to center field (3-2 BBBKF).
 
-Game 3: Campbell vs. North Carolina - Inning Number: 5 - Play: Wike,T advanced to third on a wild pitch.
+Game 3: Campbell vs. North Carolina - Inning Number: 5
+Play: Wike,T advanced to third on a wild pitch.
 
-Game 3: Campbell vs. North Carolina - Inning Number: 5 - Play: Pickett,B doubled to left field, RBI (1-2 BKKF)3a Wike,T scored.
+Game 3: Campbell vs. North Carolina - Inning Number: 5
+Play: Pickett,B doubled to left field, RBI (1-2 BKKF)3a Wike,T scored.
 
-Game 3: Campbell vs. North Carolina - Inning Number: 6 - Play: Wike,T singled to right field, RBI (1-1 BF)3a Ramsey,K advanced to second3a Murray,L scored.
+Game 3: Campbell vs. North Carolina - Inning Number: 6
+Play: Wike,T singled to right field, RBI (1-1 BF)3a Ramsey,K advanced to second3a Murray,L scored.
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 1 - Play: Wike,T doubled to right field (2-2 KFBFB).
+Game 10: East Carolina vs. North Carolina - Inning Number: 1
+Play: Wike,T doubled to right field (2-2 KFBFB).
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 3 - Play: Wike,T fouled out to c (0-0).
+Game 10: East Carolina vs. North Carolina - Inning Number: 3
+Play: Wike,T fouled out to c (0-0).
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 5 - Play: Wike,T flied out to cf (1-1 BK).
+Game 10: East Carolina vs. North Carolina - Inning Number: 5
+Play: Wike,T flied out to cf (1-1 BK).
 
 
 
 Player: Ramsey, Kiani
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 1 - Play: Ramsey,K singled up the middle (2-2 BFBFFF).
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 1
+Play: Ramsey,K singled up the middle (2-2 BFBFFF).
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 1 - Play: Ramsey,K stole second.
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 1
+Play: Ramsey,K stole second.
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 1 - Play: Wike,T singled through the left side (2-1 BKB)3a Ramsey,K advanced to third.
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 1
+Play: Wike,T singled through the left side (2-1 BKB)3a Ramsey,K advanced to third.
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 3 - Play: Ramsey,K grounded out to p (2-2 BSFB)3a DeBerry,D advanced to third.
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 3
+Play: Ramsey,K grounded out to p (2-2 BSFB)3a DeBerry,D advanced to third.
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 4 - Play: Ramsey,K struck out swinging (2-2 SBFBS).
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 4
+Play: Ramsey,K struck out swinging (2-2 SBFBS).
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 6 - Play: Ramsey,K singled, bunt, advanced to third on a throwing error by p, RBI (1-1 SB)3a Murray,L scored3a DeBerry,D scored, unearned.
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 6
+Play: Ramsey,K singled, bunt, advanced to third on a throwing error by p, RBI (1-1 SB)3a Murray,L scored3a DeBerry,D scored, unearned.
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 6 - Play: Wike,T singled to center field, RBI (3-1 BBBK)3a Ramsey,K scored, unearned.
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 6
+Play: Wike,T singled to center field, RBI (3-1 BBBK)3a Ramsey,K scored, unearned.
 
-Game 3: Campbell vs. North Carolina - Inning Number: 1 - Play: Ramsey,K struck out looking (0-2 KFK).
+Game 3: Campbell vs. North Carolina - Inning Number: 1
+Play: Ramsey,K struck out looking (0-2 KFK).
 
-Game 3: Campbell vs. North Carolina - Inning Number: 2 - Play: Ramsey,K grounded out to 3b (2-1 SBB).
+Game 3: Campbell vs. North Carolina - Inning Number: 2
+Play: Ramsey,K grounded out to 3b (2-1 SBB).
 
-Game 3: Campbell vs. North Carolina - Inning Number: 4 - Play: Ramsey,K grounded out to ss (0-0).
+Game 3: Campbell vs. North Carolina - Inning Number: 4
+Play: Ramsey,K grounded out to ss (0-0).
 
-Game 3: Campbell vs. North Carolina - Inning Number: 6 - Play: Hutcherson,C pinch hit for Ramsey,K.
+Game 3: Campbell vs. North Carolina - Inning Number: 6
+Play: Hutcherson,C pinch hit for Ramsey,K.
 
-Game 3: Campbell vs. North Carolina - Inning Number: 6 - Play: Ramsey,K to cf for Hutcherson,C.
+Game 3: Campbell vs. North Carolina - Inning Number: 6
+Play: Ramsey,K to cf for Hutcherson,C.
 
-Game 3: Campbell vs. North Carolina - Inning Number: 6 - Play: Wike,T singled to right field, RBI (1-1 BF)3a Ramsey,K advanced to second3a Murray,L scored.
+Game 3: Campbell vs. North Carolina - Inning Number: 6
+Play: Wike,T singled to right field, RBI (1-1 BF)3a Ramsey,K advanced to second3a Murray,L scored.
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 1 - Play: Ramsey,K lined out to ss (1-2 BKK).
+Game 10: East Carolina vs. North Carolina - Inning Number: 1
+Play: Ramsey,K lined out to ss (1-2 BKK).
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 3 - Play: Ramsey,K singled up the middle (0-0).
+Game 10: East Carolina vs. North Carolina - Inning Number: 3
+Play: Ramsey,K singled up the middle (0-0).
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 5 - Play: Ramsey,K grounded out to 3b (0-1 K).
+Game 10: East Carolina vs. North Carolina - Inning Number: 5
+Play: Ramsey,K grounded out to 3b (0-1 K).
 
 
 
 Player: Burkhardt, Kristina
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 2 - Play: Burkhardt,K flied out to lf (3-2 KBFBFBFFF).
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 2
+Play: Burkhardt,K flied out to lf (3-2 KBFBFBFFF).
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 3 - Play: Burkhardt,K lined out to lf (3-2 BBKBS).
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 3
+Play: Burkhardt,K lined out to lf (3-2 BBKBS).
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 5 - Play: Burkhardt,K flied out to cf (2-1 BFB).
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 5
+Play: Burkhardt,K flied out to cf (2-1 BFB).
 
-Game 3: Campbell vs. North Carolina - Inning Number: 1 - Play: Burkhardt,K singled up the middle, RBI (1-2 BKF)3a Goodman,Z advanced to second3a Pickett,B scored.
+Game 3: Campbell vs. North Carolina - Inning Number: 1
+Play: Burkhardt,K singled up the middle, RBI (1-2 BKF)3a Goodman,Z advanced to second3a Pickett,B scored.
 
-Game 3: Campbell vs. North Carolina - Inning Number: 3 - Play: Burkhardt,K doubled to left field (1-0 B).
+Game 3: Campbell vs. North Carolina - Inning Number: 3
+Play: Burkhardt,K doubled to left field (1-0 B).
 
-Game 3: Campbell vs. North Carolina - Inning Number: 3 - Play: Cole,H advanced to second on a passed ball3a Burkhardt,K advanced to third.
+Game 3: Campbell vs. North Carolina - Inning Number: 3
+Play: Cole,H advanced to second on a passed ball3a Burkhardt,K advanced to third.
 
-Game 3: Campbell vs. North Carolina - Inning Number: 5 - Play: Burkhardt,K grounded out to ss (2-1 BBF).
+Game 3: Campbell vs. North Carolina - Inning Number: 5
+Play: Burkhardt,K grounded out to ss (2-1 BBF).
 
-Game 4: North Carolina vs. Syracuse - Inning Number: 2 - Play: Burkhardt singled to shortstop.
+Game 4: North Carolina vs. Syracuse - Inning Number: 2
+Play: Burkhardt singled to shortstop.
 
-Game 4: North Carolina vs. Syracuse - Inning Number: 2 - Play: Heese singled through the left side: Burkhardt advanced to second.
+Game 4: North Carolina vs. Syracuse - Inning Number: 2
+Play: Heese singled through the left side: Burkhardt advanced to second.
 
-Game 4: North Carolina vs. Syracuse - Inning Number: 4 - Play: Burkhardt fouled out to 1b.
+Game 4: North Carolina vs. Syracuse - Inning Number: 4
+Play: Burkhardt fouled out to 1b.
 
-Game 4: North Carolina vs. Syracuse - Inning Number: 7 - Play: Burkhardt homered to center field, RBI.
+Game 4: North Carolina vs. Syracuse - Inning Number: 7
+Play: Burkhardt homered to center field, RBI.
 
-Game 5: North Carolina vs. Syracuse - Inning Number: 7 - Play: Burkhardt pinch hit for Martin.
+Game 5: North Carolina vs. Syracuse - Inning Number: 7
+Play: Burkhardt pinch hit for Martin.
 
-Game 5: North Carolina vs. Syracuse - Inning Number: 7 - Play: Burkhardt out at first p to ss to 1b.
+Game 5: North Carolina vs. Syracuse - Inning Number: 7
+Play: Burkhardt out at first p to ss to 1b.
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 2 - Play: Burkhardt,K flied out to cf (1-0 B).
+Game 10: East Carolina vs. North Carolina - Inning Number: 2
+Play: Burkhardt,K flied out to cf (1-0 B).
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 4 - Play: Burkhardt,K doubled to right field (3-2 BFFBBFFF).
+Game 10: East Carolina vs. North Carolina - Inning Number: 4
+Play: Burkhardt,K doubled to right field (3-2 BFFBBFFF).
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 4 - Play: Parkinson,S flied into double play rf to ss (2-1 BBF)3a Burkhardt,K out on the play.
+Game 10: East Carolina vs. North Carolina - Inning Number: 4
+Play: Parkinson,S flied into double play rf to ss (2-1 BBF)3a Burkhardt,K out on the play.
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 6 - Play: Burkhardt,K grounded out to 1b unassisted (2-1 BBK).
+Game 10: East Carolina vs. North Carolina - Inning Number: 6
+Play: Burkhardt,K grounded out to 1b unassisted (2-1 BBK).
 
 
 
 Player: Pickett, Brittany
 
-Game 1: North Carolina vs. Pittsburgh - Inning Number: 4 - Play: Pickett,B to p for West,B.
+Game 1: North Carolina vs. Pittsburgh - Inning Number: 4
+Play: Pickett,B to p for West,B.
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 1 - Play: Pickett,B struck out swinging (0-2 KFS)3a Wike,T stole second.
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 1
+Play: Pickett,B struck out swinging (0-2 KFS)3a Wike,T stole second.
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 3 - Play: Pickett,B singled through the right side, RBI (1-0 B)3a Wike,T scored.
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 3
+Play: Pickett,B singled through the right side, RBI (1-0 B)3a Wike,T scored.
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 3 - Play: Goodman,Z walked (3-0 BBBB)3a Pickett,B advanced to second.
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 3
+Play: Goodman,Z walked (3-0 BBBB)3a Pickett,B advanced to second.
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 5 - Play: Pickett,B struck out swinging (1-2 BSFS).
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 5
+Play: Pickett,B struck out swinging (1-2 BSFS).
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 6 - Play: Pickett,B homered to left field, RBI, unearned (1-2 KBF).
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 6
+Play: Pickett,B homered to left field, RBI, unearned (1-2 KBF).
 
-Game 3: Campbell vs. North Carolina - Inning Number: 1 - Play: Pickett,B doubled to left field, RBI (2-2 BBFF)3a Wike,T scored.
+Game 3: Campbell vs. North Carolina - Inning Number: 1
+Play: Pickett,B doubled to left field, RBI (2-2 BBFF)3a Wike,T scored.
 
-Game 3: Campbell vs. North Carolina - Inning Number: 1 - Play: Burkhardt,K singled up the middle, RBI (1-2 BKF)3a Goodman,Z advanced to second3a Pickett,B scored.
+Game 3: Campbell vs. North Carolina - Inning Number: 1
+Play: Burkhardt,K singled up the middle, RBI (1-2 BKF)3a Goodman,Z advanced to second3a Pickett,B scored.
 
-Game 3: Campbell vs. North Carolina - Inning Number: 3 - Play: Pickett,B homered to center field, RBI (3-2 BKBBF).
+Game 3: Campbell vs. North Carolina - Inning Number: 3
+Play: Pickett,B homered to center field, RBI (3-2 BKBBF).
 
-Game 3: Campbell vs. North Carolina - Inning Number: 5 - Play: Pickett,B doubled to left field, RBI (1-2 BKKF)3a Wike,T scored.
+Game 3: Campbell vs. North Carolina - Inning Number: 5
+Play: Pickett,B doubled to left field, RBI (1-2 BKKF)3a Wike,T scored.
 
-Game 3: Campbell vs. North Carolina - Inning Number: 5 - Play: Parkinson,S pinch ran for Pickett,B.
+Game 3: Campbell vs. North Carolina - Inning Number: 5
+Play: Parkinson,S pinch ran for Pickett,B.
 
-Game 4: North Carolina vs. Syracuse - Inning Number: 4 - Play: Pickett,B to p for Cole,H.
+Game 4: North Carolina vs. Syracuse - Inning Number: 4
+Play: Pickett,B to p for Cole,H.
 
-Game 6: North Carolina vs. Liberty - Inning Number: 5 - Play: Pickett,B to dp.
+Game 6: North Carolina vs. Liberty - Inning Number: 5
+Play: Pickett,B to dp.
 
-Game 7: North Carolina vs. Georgia Tech - Inning Number: 5 - Play: Pickett,B to p for Cole,H.
+Game 7: North Carolina vs. Georgia Tech - Inning Number: 5
+Play: Pickett,B to p for Cole,H.
 
-Game 9: North Carolina vs. Georgia Tech - Inning Number: 4 - Play: Pickett,B to p for West,B.
+Game 9: North Carolina vs. Georgia Tech - Inning Number: 4
+Play: Pickett,B to p for West,B.
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 1 - Play: Pickett,B struck out swinging (2-2 BFBKS).
+Game 10: East Carolina vs. North Carolina - Inning Number: 1
+Play: Pickett,B struck out swinging (2-2 BFBKS).
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 4 - Play: Pickett,B struck out looking (2-2 BKBKK).
+Game 10: East Carolina vs. North Carolina - Inning Number: 4
+Play: Pickett,B struck out looking (2-2 BKBKK).
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 6 - Play: Pickett,B homered to center field, RBI (2-2 KSFBBF).
+Game 10: East Carolina vs. North Carolina - Inning Number: 6
+Play: Pickett,B homered to center field, RBI (2-2 KSFBBF).
 
 
 
 Player: Murray, Leah
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 1 - Play: Murray,L out at first 3b to 2b, bunt (0-0).
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 1
+Play: Murray,L out at first 3b to 2b, bunt (0-0).
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 3 - Play: Murray,L grounded out to p, SAC, bunt (0-0)3a DeBerry,D advanced to second.
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 3
+Play: Murray,L grounded out to p, SAC, bunt (0-0)3a DeBerry,D advanced to second.
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 4 - Play: Murray,L reached on a fielder's choice to pitcher (1-0 B)3a DeBerry,D advanced to second3a Cole,H advanced to third3a Delamora,B out at home p to c.
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 4
+Play: Murray,L reached on a fielder's choice to pitcher (1-0 B)3a DeBerry,D advanced to second3a Cole,H advanced to third3a Delamora,B out at home p to c.
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 6 - Play: Murray,L singled up the middle, advanced to second on the throw (1-2 FBF)3a DeBerry,D advanced to third.
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 6
+Play: Murray,L singled up the middle, advanced to second on the throw (1-2 FBF)3a DeBerry,D advanced to third.
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 6 - Play: Ramsey,K singled, bunt, advanced to third on a throwing error by p, RBI (1-1 SB)3a Murray,L scored3a DeBerry,D scored, unearned.
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 6
+Play: Ramsey,K singled, bunt, advanced to third on a throwing error by p, RBI (1-1 SB)3a Murray,L scored3a DeBerry,D scored, unearned.
 
-Game 3: Campbell vs. North Carolina - Inning Number: 1 - Play: Murray,L grounded out to p (2-2 KKBB).
+Game 3: Campbell vs. North Carolina - Inning Number: 1
+Play: Murray,L grounded out to p (2-2 KKBB).
 
-Game 3: Campbell vs. North Carolina - Inning Number: 2 - Play: Murray,L singled through the left side (1-2 FBF).
+Game 3: Campbell vs. North Carolina - Inning Number: 2
+Play: Murray,L singled through the left side (1-2 FBF).
 
-Game 3: Campbell vs. North Carolina - Inning Number: 2 - Play: Murray,L stole second.
+Game 3: Campbell vs. North Carolina - Inning Number: 2
+Play: Murray,L stole second.
 
-Game 3: Campbell vs. North Carolina - Inning Number: 4 - Play: Murray,L grounded out to ss (3-2 KBBSB).
+Game 3: Campbell vs. North Carolina - Inning Number: 4
+Play: Murray,L grounded out to ss (3-2 KBBSB).
 
-Game 3: Campbell vs. North Carolina - Inning Number: 6 - Play: Burns,B pinch hit for Murray,L.
+Game 3: Campbell vs. North Carolina - Inning Number: 6
+Play: Burns,B pinch hit for Murray,L.
 
-Game 3: Campbell vs. North Carolina - Inning Number: 6 - Play: Murray,L to 1b for Burns,B.
+Game 3: Campbell vs. North Carolina - Inning Number: 6
+Play: Murray,L to 1b for Burns,B.
 
-Game 3: Campbell vs. North Carolina - Inning Number: 6 - Play: Hutcherson,C singled to right field (0-0)3a Murray,L advanced to second.
+Game 3: Campbell vs. North Carolina - Inning Number: 6
+Play: Hutcherson,C singled to right field (0-0)3a Murray,L advanced to second.
 
-Game 3: Campbell vs. North Carolina - Inning Number: 6 - Play: Wike,T singled to right field, RBI (1-1 BF)3a Ramsey,K advanced to second3a Murray,L scored.
+Game 3: Campbell vs. North Carolina - Inning Number: 6
+Play: Wike,T singled to right field, RBI (1-1 BF)3a Ramsey,K advanced to second3a Murray,L scored.
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 1 - Play: Murray,L fouled out to c (2-2 BFBK).
+Game 10: East Carolina vs. North Carolina - Inning Number: 1
+Play: Murray,L fouled out to c (2-2 BFBK).
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 3 - Play: Murray,L singled to right field (2-1 BBS)3a DeBerry,D advanced to third.
+Game 10: East Carolina vs. North Carolina - Inning Number: 3
+Play: Murray,L singled to right field (2-1 BBS)3a DeBerry,D advanced to third.
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 3 - Play: Murray,L stole second, out at third c to 2b to c to 3b3a DeBerry,D stole home.
+Game 10: East Carolina vs. North Carolina - Inning Number: 3
+Play: Murray,L stole second, out at third c to 2b to c to 3b3a DeBerry,D stole home.
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 5 - Play: Murray,L singled, advanced to third, RBI3a DeBerry,D advanced to second, advanced to third on an error by cf, scored on an error by c, unearned3a Cole,H scored.
+Game 10: East Carolina vs. North Carolina - Inning Number: 5
+Play: Murray,L singled, advanced to third, RBI3a DeBerry,D advanced to second, advanced to third on an error by cf, scored on an error by c, unearned3a Cole,H scored.
 
 
 
 Player: Bailiff, Katie
 
-Game 6: North Carolina vs. Liberty - Inning Number: 5 - Play: Daly,K to p for Bailiff,K.
+Game 6: North Carolina vs. Liberty - Inning Number: 5
+Play: Daly,K to p for Bailiff,K.
 
-Game 7: North Carolina vs. Georgia Tech - Inning Number: 4 - Play: Bailiff,K to c for West,B.
+Game 7: North Carolina vs. Georgia Tech - Inning Number: 4
+Play: Bailiff,K to c for West,B.
 
 
 
 Player: Parkinson, Sierra
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 3 - Play: Parkinson,S pinch ran for Goodman,Z.
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 3
+Play: Parkinson,S pinch ran for Goodman,Z.
 
-Game 3: Campbell vs. North Carolina - Inning Number: 5 - Play: Parkinson,S pinch ran for Pickett,B.
+Game 3: Campbell vs. North Carolina - Inning Number: 5
+Play: Parkinson,S pinch ran for Pickett,B.
 
-Game 3: Campbell vs. North Carolina - Inning Number: 5 - Play: Goodman,Z homered to left field, 2 RBI (2-1 BSB)3a Parkinson,S scored.
+Game 3: Campbell vs. North Carolina - Inning Number: 5
+Play: Goodman,Z homered to left field, 2 RBI (2-1 BSB)3a Parkinson,S scored.
 
-Game 6: North Carolina vs. Liberty - Inning Number: 5 - Play: Shifflett,K to 2b for Parkinson,S.
+Game 6: North Carolina vs. Liberty - Inning Number: 5
+Play: Shifflett,K to 2b for Parkinson,S.
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 2 - Play: Parkinson,S out at first p to 2b (0-0).
+Game 10: East Carolina vs. North Carolina - Inning Number: 2
+Play: Parkinson,S out at first p to 2b (0-0).
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 4 - Play: Parkinson,S flied into double play rf to ss (2-1 BBF)3a Burkhardt,K out on the play.
+Game 10: East Carolina vs. North Carolina - Inning Number: 4
+Play: Parkinson,S flied into double play rf to ss (2-1 BBF)3a Burkhardt,K out on the play.
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 6 - Play: Parkinson,S singled up the middle (1-1 BK).
+Game 10: East Carolina vs. North Carolina - Inning Number: 6
+Play: Parkinson,S singled up the middle (1-1 BK).
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 6 - Play: Dray,M singled through the left side (0-0)3a Parkinson,S advanced to second.
+Game 10: East Carolina vs. North Carolina - Inning Number: 6
+Play: Dray,M singled through the left side (0-0)3a Parkinson,S advanced to second.
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 6 - Play: Shifflett,K out at first p to 2b, SAC, bunt (0-0)3a Dray,M advanced to second3a Parkinson,S advanced to third.
+Game 10: East Carolina vs. North Carolina - Inning Number: 6
+Play: Shifflett,K out at first p to 2b, SAC, bunt (0-0)3a Dray,M advanced to second3a Parkinson,S advanced to third.
 
 
 
 Player: Cole, Hailey
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 4 - Play: Cole,H pinch ran for Shifflett,K.
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 4
+Play: Cole,H pinch ran for Shifflett,K.
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 4 - Play: DeBerry,D singled to pitcher (1-1 BF)3a Cole,H advanced to second.
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 4
+Play: DeBerry,D singled to pitcher (1-1 BF)3a Cole,H advanced to second.
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 4 - Play: Murray,L reached on a fielder's choice to pitcher (1-0 B)3a DeBerry,D advanced to second3a Cole,H advanced to third3a Delamora,B out at home p to c.
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 4
+Play: Murray,L reached on a fielder's choice to pitcher (1-0 B)3a DeBerry,D advanced to second3a Cole,H advanced to third3a Delamora,B out at home p to c.
 
-Game 3: Campbell vs. North Carolina - Inning Number: 3 - Play: Cole,H pinch ran for Delamora,B.
+Game 3: Campbell vs. North Carolina - Inning Number: 3
+Play: Cole,H pinch ran for Delamora,B.
 
-Game 3: Campbell vs. North Carolina - Inning Number: 3 - Play: Cole,H advanced to second on a passed ball3a Burkhardt,K advanced to third.
+Game 3: Campbell vs. North Carolina - Inning Number: 3
+Play: Cole,H advanced to second on a passed ball3a Burkhardt,K advanced to third.
 
-Game 4: North Carolina vs. Syracuse - Inning Number: 4 - Play: Pickett,B to p for Cole,H.
+Game 4: North Carolina vs. Syracuse - Inning Number: 4
+Play: Pickett,B to p for Cole,H.
 
-Game 5: North Carolina vs. Syracuse - Inning Number: 5 - Play: Dray,M to 3b for Cole,H.
+Game 5: North Carolina vs. Syracuse - Inning Number: 5
+Play: Dray,M to 3b for Cole,H.
 
-Game 6: North Carolina vs. Liberty - Inning Number: 5 - Play: Cole,H to 3b for Jensen,H.
+Game 6: North Carolina vs. Liberty - Inning Number: 5
+Play: Cole,H to 3b for Jensen,H.
 
-Game 7: North Carolina vs. Georgia Tech - Inning Number: 5 - Play: Pickett,B to p for Cole,H.
+Game 7: North Carolina vs. Georgia Tech - Inning Number: 5
+Play: Pickett,B to p for Cole,H.
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 5 - Play: Cole,H pinch ran for Shifflett,K.
+Game 10: East Carolina vs. North Carolina - Inning Number: 5
+Play: Cole,H pinch ran for Shifflett,K.
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 5 - Play: DeBerry,D reached on a fielder's choice (2-2 BBKF)3a Cole,H advanced to second3a West,B out at home 2b to c.
+Game 10: East Carolina vs. North Carolina - Inning Number: 5
+Play: DeBerry,D reached on a fielder's choice (2-2 BBKF)3a Cole,H advanced to second3a West,B out at home 2b to c.
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 5 - Play: Murray,L singled, advanced to third, RBI3a DeBerry,D advanced to second, advanced to third on an error by cf, scored on an error by c, unearned3a Cole,H scored.
+Game 10: East Carolina vs. North Carolina - Inning Number: 5
+Play: Murray,L singled, advanced to third, RBI3a DeBerry,D advanced to second, advanced to third on an error by cf, scored on an error by c, unearned3a Cole,H scored.
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 6 - Play: Shifflett,K to dp for Cole,H.
+Game 10: East Carolina vs. North Carolina - Inning Number: 6
+Play: Shifflett,K to dp for Cole,H.
 
 
 
 Player: Dray, Megan
 
-Game 5: North Carolina vs. Syracuse - Inning Number: 5 - Play: Dray,M to 3b for Cole,H.
+Game 5: North Carolina vs. Syracuse - Inning Number: 5
+Play: Dray,M to 3b for Cole,H.
 
-Game 6: North Carolina vs. Liberty - Inning Number: 5 - Play: Dray,M to c.
+Game 6: North Carolina vs. Liberty - Inning Number: 5
+Play: Dray,M to c.
 
-Game 7: North Carolina vs. Georgia Tech - Inning Number: 6 - Play: Dray,M to 3b for Shifflett,K.
+Game 7: North Carolina vs. Georgia Tech - Inning Number: 6
+Play: Dray,M to 3b for Shifflett,K.
 
-Game 8: North Carolina vs. Georgia Tech - Inning Number: 4 - Play: Dray,M to 3b for West,B.
+Game 8: North Carolina vs. Georgia Tech - Inning Number: 4
+Play: Dray,M to 3b for West,B.
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 2 - Play: Dray,M struck out looking (3-2 FFFBBBK).
+Game 10: East Carolina vs. North Carolina - Inning Number: 2
+Play: Dray,M struck out looking (3-2 FFFBBBK).
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 5 - Play: Dray,M singled down the lf line (0-0).
+Game 10: East Carolina vs. North Carolina - Inning Number: 5
+Play: Dray,M singled down the lf line (0-0).
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 5 - Play: West,B pinch ran for Dray,M.
+Game 10: East Carolina vs. North Carolina - Inning Number: 5
+Play: West,B pinch ran for Dray,M.
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 6 - Play: Dray,M singled through the left side (0-0)3a Parkinson,S advanced to second.
+Game 10: East Carolina vs. North Carolina - Inning Number: 6
+Play: Dray,M singled through the left side (0-0)3a Parkinson,S advanced to second.
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 6 - Play: Shifflett,K out at first p to 2b, SAC, bunt (0-0)3a Dray,M advanced to second3a Parkinson,S advanced to third.
+Game 10: East Carolina vs. North Carolina - Inning Number: 6
+Play: Shifflett,K out at first p to 2b, SAC, bunt (0-0)3a Dray,M advanced to second3a Parkinson,S advanced to third.
 
 
 
 Player: DeBerry, Destiny
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 3 - Play: DeBerry,D singled up the middle (0-0).
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 3
+Play: DeBerry,D singled up the middle (0-0).
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 3 - Play: Murray,L grounded out to p, SAC, bunt (0-0)3a DeBerry,D advanced to second.
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 3
+Play: Murray,L grounded out to p, SAC, bunt (0-0)3a DeBerry,D advanced to second.
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 3 - Play: Ramsey,K grounded out to p (2-2 BSFB)3a DeBerry,D advanced to third.
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 3
+Play: Ramsey,K grounded out to p (2-2 BSFB)3a DeBerry,D advanced to third.
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 3 - Play: Wike,T stole second3a DeBerry,D stole home.
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 3
+Play: Wike,T stole second3a DeBerry,D stole home.
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 4 - Play: DeBerry,D singled to pitcher (1-1 BF)3a Cole,H advanced to second.
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 4
+Play: DeBerry,D singled to pitcher (1-1 BF)3a Cole,H advanced to second.
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 4 - Play: Murray,L reached on a fielder's choice to pitcher (1-0 B)3a DeBerry,D advanced to second3a Cole,H advanced to third3a Delamora,B out at home p to c.
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 4
+Play: Murray,L reached on a fielder's choice to pitcher (1-0 B)3a DeBerry,D advanced to second3a Cole,H advanced to third3a Delamora,B out at home p to c.
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 6 - Play: DeBerry,D reached on a fielding error by p (0-0).
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 6
+Play: DeBerry,D reached on a fielding error by p (0-0).
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 6 - Play: Murray,L singled up the middle, advanced to second on the throw (1-2 FBF)3a DeBerry,D advanced to third.
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 6
+Play: Murray,L singled up the middle, advanced to second on the throw (1-2 FBF)3a DeBerry,D advanced to third.
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 6 - Play: Ramsey,K singled, bunt, advanced to third on a throwing error by p, RBI (1-1 SB)3a Murray,L scored3a DeBerry,D scored, unearned.
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 6
+Play: Ramsey,K singled, bunt, advanced to third on a throwing error by p, RBI (1-1 SB)3a Murray,L scored3a DeBerry,D scored, unearned.
 
-Game 3: Campbell vs. North Carolina - Inning Number: 2 - Play: DeBerry,D out on batter's interference (3-2 BBKFB).
+Game 3: Campbell vs. North Carolina - Inning Number: 2
+Play: DeBerry,D out on batter's interference (3-2 BBKFB).
 
-Game 3: Campbell vs. North Carolina - Inning Number: 4 - Play: DeBerry,D walked (3-1 BKBBB).
+Game 3: Campbell vs. North Carolina - Inning Number: 4
+Play: DeBerry,D walked (3-1 BKBBB).
 
-Game 3: Campbell vs. North Carolina - Inning Number: 4 - Play: DeBerry,D advanced to second on a wild pitch, advanced to third.
+Game 3: Campbell vs. North Carolina - Inning Number: 4
+Play: DeBerry,D advanced to second on a wild pitch, advanced to third.
 
-Game 3: Campbell vs. North Carolina - Inning Number: 4 - Play: DeBerry,D out at home c to ss, picked off.
+Game 3: Campbell vs. North Carolina - Inning Number: 4
+Play: DeBerry,D out at home c to ss, picked off.
 
-Game 3: Campbell vs. North Carolina - Inning Number: 5 - Play: West,B pinch hit for DeBerry,D.
+Game 3: Campbell vs. North Carolina - Inning Number: 5
+Play: West,B pinch hit for DeBerry,D.
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 3 - Play: DeBerry,D singled, bunt (0-0).
+Game 10: East Carolina vs. North Carolina - Inning Number: 3
+Play: DeBerry,D singled, bunt (0-0).
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 3 - Play: DeBerry,D stole second.
+Game 10: East Carolina vs. North Carolina - Inning Number: 3
+Play: DeBerry,D stole second.
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 3 - Play: Murray,L singled to right field (2-1 BBS)3a DeBerry,D advanced to third.
+Game 10: East Carolina vs. North Carolina - Inning Number: 3
+Play: Murray,L singled to right field (2-1 BBS)3a DeBerry,D advanced to third.
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 3 - Play: Murray,L stole second, out at third c to 2b to c to 3b3a DeBerry,D stole home.
+Game 10: East Carolina vs. North Carolina - Inning Number: 3
+Play: Murray,L stole second, out at third c to 2b to c to 3b3a DeBerry,D stole home.
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 5 - Play: DeBerry,D reached on a fielder's choice (2-2 BBKF)3a Cole,H advanced to second3a West,B out at home 2b to c.
+Game 10: East Carolina vs. North Carolina - Inning Number: 5
+Play: DeBerry,D reached on a fielder's choice (2-2 BBKF)3a Cole,H advanced to second3a West,B out at home 2b to c.
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 5 - Play: Murray,L singled, advanced to third, RBI3a DeBerry,D advanced to second, advanced to third on an error by cf, scored on an error by c, unearned3a Cole,H scored.
+Game 10: East Carolina vs. North Carolina - Inning Number: 5
+Play: Murray,L singled, advanced to third, RBI3a DeBerry,D advanced to second, advanced to third on an error by cf, scored on an error by c, unearned3a Cole,H scored.
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 6 - Play: DeBerry,D struck out swinging (2-2 BFFBS).
+Game 10: East Carolina vs. North Carolina - Inning Number: 6
+Play: DeBerry,D struck out swinging (2-2 BFFBS).
 
 
 
 Player: Shifflett, Katelyn
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 2 - Play: Shifflett,K struck out swinging (1-2 SSBS).
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 2
+Play: Shifflett,K struck out swinging (1-2 SSBS).
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 4 - Play: Shifflett,K singled to catcher, bunt (1-1 BF)3a Delamora,B advanced to third.
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 4
+Play: Shifflett,K singled to catcher, bunt (1-1 BF)3a Delamora,B advanced to third.
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 4 - Play: Cole,H pinch ran for Shifflett,K.
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 4
+Play: Cole,H pinch ran for Shifflett,K.
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 6 - Play: Shifflett,K fouled out to c (2-2 SBFFBF).
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 6
+Play: Shifflett,K fouled out to c (2-2 SBFFBF).
 
-Game 3: Campbell vs. North Carolina - Inning Number: 2 - Play: Shifflett,K flied out to rf (2-2 BKKFB).
+Game 3: Campbell vs. North Carolina - Inning Number: 2
+Play: Shifflett,K flied out to rf (2-2 BKKFB).
 
-Game 3: Campbell vs. North Carolina - Inning Number: 3 - Play: Shifflett,K struck out swinging (3-2 BBBKKS).
+Game 3: Campbell vs. North Carolina - Inning Number: 3
+Play: Shifflett,K struck out swinging (3-2 BBBKKS).
 
-Game 3: Campbell vs. North Carolina - Inning Number: 5 - Play: Shifflett,K homered to left field, RBI (3-1 FBBB).
+Game 3: Campbell vs. North Carolina - Inning Number: 5
+Play: Shifflett,K homered to left field, RBI (3-1 FBBB).
 
-Game 4: North Carolina vs. Syracuse - Inning Number: 7 - Play: Shifflett,K to 2b for Jensen,H.
+Game 4: North Carolina vs. Syracuse - Inning Number: 7
+Play: Shifflett,K to 2b for Jensen,H.
 
-Game 6: North Carolina vs. Liberty - Inning Number: 5 - Play: Shifflett,K to 2b for Parkinson,S.
+Game 6: North Carolina vs. Liberty - Inning Number: 5
+Play: Shifflett,K to 2b for Parkinson,S.
 
-Game 7: North Carolina vs. Georgia Tech - Inning Number: 6 - Play: Dray,M to 3b for Shifflett,K.
+Game 7: North Carolina vs. Georgia Tech - Inning Number: 6
+Play: Dray,M to 3b for Shifflett,K.
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 3 - Play: Shifflett,K struck out swinging (2-2 FKBFFBFFS).
+Game 10: East Carolina vs. North Carolina - Inning Number: 3
+Play: Shifflett,K struck out swinging (2-2 FKBFFBFFS).
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 5 - Play: Shifflett,K singled to shortstop (0-2 FK)3a West,B advanced to second.
+Game 10: East Carolina vs. North Carolina - Inning Number: 5
+Play: Shifflett,K singled to shortstop (0-2 FK)3a West,B advanced to second.
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 5 - Play: Cole,H pinch ran for Shifflett,K.
+Game 10: East Carolina vs. North Carolina - Inning Number: 5
+Play: Cole,H pinch ran for Shifflett,K.
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 6 - Play: Shifflett,K to dp for Cole,H.
+Game 10: East Carolina vs. North Carolina - Inning Number: 6
+Play: Shifflett,K to dp for Cole,H.
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 6 - Play: Shifflett,K out at first p to 2b, SAC, bunt (0-0)3a Dray,M advanced to second3a Parkinson,S advanced to third.
+Game 10: East Carolina vs. North Carolina - Inning Number: 6
+Play: Shifflett,K out at first p to 2b, SAC, bunt (0-0)3a Dray,M advanced to second3a Parkinson,S advanced to third.
 
 
 
 Player: Delamora, Berlynne
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 2 - Play: Delamora,B singled through the left side (3-2 BBKBF).
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 2
+Play: Delamora,B singled through the left side (3-2 BBKBF).
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 2 - Play: West,B pinch ran for Delamora,B.
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 2
+Play: West,B pinch ran for Delamora,B.
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 4 - Play: Delamora,B reached on a dropped fly by rf, advanced to second (2-2 BBKK).
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 4
+Play: Delamora,B reached on a dropped fly by rf, advanced to second (2-2 BBKK).
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 4 - Play: Shifflett,K singled to catcher, bunt (1-1 BF)3a Delamora,B advanced to third.
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 4
+Play: Shifflett,K singled to catcher, bunt (1-1 BF)3a Delamora,B advanced to third.
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 4 - Play: Murray,L reached on a fielder's choice to pitcher (1-0 B)3a DeBerry,D advanced to second3a Cole,H advanced to third3a Delamora,B out at home p to c.
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 4
+Play: Murray,L reached on a fielder's choice to pitcher (1-0 B)3a DeBerry,D advanced to second3a Cole,H advanced to third3a Delamora,B out at home p to c.
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 5 - Play: Delamora,B grounded out to ss (1-1 KB).
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 5
+Play: Delamora,B grounded out to ss (1-1 KB).
 
-Game 3: Campbell vs. North Carolina - Inning Number: 1 - Play: Delamora,B grounded out to 2b (3-2 BBKKB).
+Game 3: Campbell vs. North Carolina - Inning Number: 1
+Play: Delamora,B grounded out to 2b (3-2 BBKKB).
 
-Game 3: Campbell vs. North Carolina - Inning Number: 3 - Play: Delamora,B walked (3-0 BBBB).
+Game 3: Campbell vs. North Carolina - Inning Number: 3
+Play: Delamora,B walked (3-0 BBBB).
 
-Game 3: Campbell vs. North Carolina - Inning Number: 3 - Play: Cole,H pinch ran for Delamora,B.
+Game 3: Campbell vs. North Carolina - Inning Number: 3
+Play: Cole,H pinch ran for Delamora,B.
 
-Game 3: Campbell vs. North Carolina - Inning Number: 5 - Play: Delamora,B flied out to cf (2-2 KBBF).
+Game 3: Campbell vs. North Carolina - Inning Number: 5
+Play: Delamora,B flied out to cf (2-2 KBBF).
 
 
 
 Player: West, Brittany
 
-Game 1: North Carolina vs. Pittsburgh - Inning Number: 4 - Play: Pickett,B to p for West,B.
+Game 1: North Carolina vs. Pittsburgh - Inning Number: 4
+Play: Pickett,B to p for West,B.
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 2 - Play: West,B pinch ran for Delamora,B.
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 2
+Play: West,B pinch ran for Delamora,B.
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 2 - Play: West,B out at second c to ss, caught stealing.
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 2
+Play: West,B out at second c to ss, caught stealing.
 
-Game 3: Campbell vs. North Carolina - Inning Number: 5 - Play: West,B pinch hit for DeBerry,D.
+Game 3: Campbell vs. North Carolina - Inning Number: 5
+Play: West,B pinch hit for DeBerry,D.
 
-Game 3: Campbell vs. North Carolina - Inning Number: 5 - Play: West,B struck out swinging (1-2 FFFBFS).
+Game 3: Campbell vs. North Carolina - Inning Number: 5
+Play: West,B struck out swinging (1-2 FFFBFS).
 
-Game 7: North Carolina vs. Georgia Tech - Inning Number: 4 - Play: Bailiff,K to c for West,B.
+Game 7: North Carolina vs. Georgia Tech - Inning Number: 4
+Play: Bailiff,K to c for West,B.
 
-Game 8: North Carolina vs. Georgia Tech - Inning Number: 4 - Play: Dray,M to 3b for West,B.
+Game 8: North Carolina vs. Georgia Tech - Inning Number: 4
+Play: Dray,M to 3b for West,B.
 
-Game 9: North Carolina vs. Georgia Tech - Inning Number: 4 - Play: Pickett,B to p for West,B.
+Game 9: North Carolina vs. Georgia Tech - Inning Number: 4
+Play: Pickett,B to p for West,B.
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 5 - Play: West,B pinch ran for Dray,M.
+Game 10: East Carolina vs. North Carolina - Inning Number: 5
+Play: West,B pinch ran for Dray,M.
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 5 - Play: Shifflett,K singled to shortstop (0-2 FK)3a West,B advanced to second.
+Game 10: East Carolina vs. North Carolina - Inning Number: 5
+Play: Shifflett,K singled to shortstop (0-2 FK)3a West,B advanced to second.
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 5 - Play: West,B stole third.
+Game 10: East Carolina vs. North Carolina - Inning Number: 5
+Play: West,B stole third.
 
-Game 10: East Carolina vs. North Carolina - Inning Number: 5 - Play: DeBerry,D reached on a fielder's choice (2-2 BBKF)3a Cole,H advanced to second3a West,B out at home 2b to c.
+Game 10: East Carolina vs. North Carolina - Inning Number: 5
+Play: DeBerry,D reached on a fielder's choice (2-2 BBKF)3a Cole,H advanced to second3a West,B out at home 2b to c.
 
 
 
 Player: Hutcherson, Campbell
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 5 - Play: Hutcherson,C pinch ran for Goodman,Z.
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 5
+Play: Hutcherson,C pinch ran for Goodman,Z.
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 6 - Play: Goodman,Z to dp for Hutcherson,C.
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 6
+Play: Goodman,Z to dp for Hutcherson,C.
 
-Game 3: Campbell vs. North Carolina - Inning Number: 6 - Play: Hutcherson,C pinch hit for Ramsey,K.
+Game 3: Campbell vs. North Carolina - Inning Number: 6
+Play: Hutcherson,C pinch hit for Ramsey,K.
 
-Game 3: Campbell vs. North Carolina - Inning Number: 6 - Play: Hutcherson,C singled to right field (0-0)3a Murray,L advanced to second.
+Game 3: Campbell vs. North Carolina - Inning Number: 6
+Play: Hutcherson,C singled to right field (0-0)3a Murray,L advanced to second.
 
-Game 3: Campbell vs. North Carolina - Inning Number: 6 - Play: Ramsey,K to cf for Hutcherson,C.
+Game 3: Campbell vs. North Carolina - Inning Number: 6
+Play: Ramsey,K to cf for Hutcherson,C.
 
 
 
 Player: Jensen, Hailey
 
-Game 4: North Carolina vs. Syracuse - Inning Number: 7 - Play: Shifflett,K to 2b for Jensen,H.
+Game 4: North Carolina vs. Syracuse - Inning Number: 7
+Play: Shifflett,K to 2b for Jensen,H.
 
-Game 6: North Carolina vs. Liberty - Inning Number: 5 - Play: Cole,H to 3b for Jensen,H.
+Game 6: North Carolina vs. Liberty - Inning Number: 5
+Play: Cole,H to 3b for Jensen,H.
 
 
 
@@ -432,27 +616,38 @@ Player: Abbatine, Micaela
 
 Player: Goodman, ZoĂŤ
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 1 - Play: Goodman,Z struck out swinging (3-2 SBBBSFS).
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 1
+Play: Goodman,Z struck out swinging (3-2 SBBBSFS).
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 3 - Play: Goodman,Z walked (3-0 BBBB)3a Pickett,B advanced to second.
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 3
+Play: Goodman,Z walked (3-0 BBBB)3a Pickett,B advanced to second.
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 3 - Play: Parkinson,S pinch ran for Goodman,Z.
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 3
+Play: Parkinson,S pinch ran for Goodman,Z.
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 5 - Play: Goodman,Z singled to left field (3-2 KSBFBB).
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 5
+Play: Goodman,Z singled to left field (3-2 KSBFBB).
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 5 - Play: Hutcherson,C pinch ran for Goodman,Z.
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 5
+Play: Hutcherson,C pinch ran for Goodman,Z.
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 6 - Play: Goodman,Z to dp for Hutcherson,C.
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 6
+Play: Goodman,Z to dp for Hutcherson,C.
 
-Game 2: Georgia Tech vs. North Carolina - Inning Number: 6 - Play: Goodman,Z fouled out to 3b (3-2 KFBBB).
+Game 2: Georgia Tech vs. North Carolina - Inning Number: 6
+Play: Goodman,Z fouled out to 3b (3-2 KFBBB).
 
-Game 3: Campbell vs. North Carolina - Inning Number: 1 - Play: Goodman,Z walked (3-0 BBBB).
+Game 3: Campbell vs. North Carolina - Inning Number: 1
+Play: Goodman,Z walked (3-0 BBBB).
 
-Game 3: Campbell vs. North Carolina - Inning Number: 1 - Play: Burkhardt,K singled up the middle, RBI (1-2 BKF)3a Goodman,Z advanced to second3a Pickett,B scored.
+Game 3: Campbell vs. North Carolina - Inning Number: 1
+Play: Burkhardt,K singled up the middle, RBI (1-2 BKF)3a Goodman,Z advanced to second3a Pickett,B scored.
 
-Game 3: Campbell vs. North Carolina - Inning Number: 3 - Play: Goodman,Z grounded out to ss (2-1 BKB).
+Game 3: Campbell vs. North Carolina - Inning Number: 3
+Play: Goodman,Z grounded out to ss (2-1 BKB).
 
-Game 3: Campbell vs. North Carolina - Inning Number: 5 - Play: Goodman,Z homered to left field, 2 RBI (2-1 BSB)3a Parkinson,S scored.
+Game 3: Campbell vs. North Carolina - Inning Number: 5
+Play: Goodman,Z homered to left field, 2 RBI (2-1 BSB)3a Parkinson,S scored.
 
 
 
@@ -462,23 +657,28 @@ Player: Olinger, Katie Grace
 
 Player: Nommensen, Hannah
 
-Game 7: North Carolina vs. Georgia Tech - Inning Number: 5 - Play: /  for Nommensen,H.
+Game 7: North Carolina vs. Georgia Tech - Inning Number: 5
+Play: /  for Nommensen,H.
 
 
 
 Player: Daly, Kellyn
 
-Game 6: North Carolina vs. Liberty - Inning Number: 5 - Play: Daly,K to p for Bailiff,K.
+Game 6: North Carolina vs. Liberty - Inning Number: 5
+Play: Daly,K to p for Bailiff,K.
 
 
 
 Player: Burns, Brooke
 
-Game 3: Campbell vs. North Carolina - Inning Number: 6 - Play: Burns,B pinch hit for Murray,L.
+Game 3: Campbell vs. North Carolina - Inning Number: 6
+Play: Burns,B pinch hit for Murray,L.
 
-Game 3: Campbell vs. North Carolina - Inning Number: 6 - Play: Burns,B singled to pitcher (0-0).
+Game 3: Campbell vs. North Carolina - Inning Number: 6
+Play: Burns,B singled to pitcher (0-0).
 
-Game 3: Campbell vs. North Carolina - Inning Number: 6 - Play: Murray,L to 1b for Burns,B.
+Game 3: Campbell vs. North Carolina - Inning Number: 6
+Play: Murray,L to 1b for Burns,B.
 
 
 

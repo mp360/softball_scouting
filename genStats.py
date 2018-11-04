@@ -107,7 +107,7 @@ def match_plays(players, colleges, plays):
 
     for game_index, game in enumerate(plays):
         for inning_index, inning in enumerate(game):
-            prefix = "Game {}: {} vs. {} - Inning Number: {} - Play: ".format(game_index + 1,
+            prefix = "Game {}: {} vs. {} - Inning Number: {}\nPlay: ".format(game_index + 1,
                                                                               colleges[game_index][0],
                                                                               colleges[game_index][1],
                                                                               inning_index + 1)
