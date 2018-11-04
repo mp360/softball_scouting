@@ -1,7 +1,9 @@
 import cv2
 import numpy as np
 import sys
+import os
 from genStats import get_roster
+from fpdf import FPDF
 
 def line(img, pt1, pt2, style='solid'):
   if style is 'solid':
@@ -38,16 +40,22 @@ def flyballRight(img, pos, rot, length=100):
 def calculateWoba(slugPerc, obp):
     return str(round((slugPerc + (obp*2))/3, 2))
 
-if len(sys.argv) < 2:
-    print('Please enter a filename for the blank scouting report and a data file.')
+if len(sys.argv) < 3:
+    print('Please enter a filename for the blank scouting report and a team number.')
     exit(0)
 
 filename = sys.argv[1].split('.')[0]
+team = sys.argv[2]
 counter = 0;
+filenames = []
 
-for entry in get_roster('457'):
+if not os.path.exists('export_' + team):
+    os.makedirs('export_' + team)
+
+for entry in get_roster(team):
     counter += 1;
     img = cv2.imread(filename + '.png')
+
     # START OF MARKUP PROCESS
     # choice = 1, 2, 3, or 4
     choice = 4
@@ -97,4 +105,11 @@ for entry in get_roster('457'):
     # flyballRight(img, (1200, 200), 0, 300)
     # END OF MARKUP PROCESS
 
-    cv2.imwrite('export/' + filename + '_markedup' + entry['Jersey'] + '.png', img)
+    filenames.append('export_' + team + '/' + filename + '_markedup' + entry['Jersey'] + '.png')
+    cv2.imwrite('export_' + team + '/' + filename + '_markedup' + entry['Jersey'] + '.png', img)
+
+pdf = FPDF()
+for image in filenames:
+    pdf.add_page(orientation="L")
+    pdf.image(image, h=175)
+pdf.output('markedUpScouting.pdf', 'F')
