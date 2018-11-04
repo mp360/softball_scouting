@@ -43,7 +43,7 @@ def get_roster(team_code):
     return to_return
 
 
-def get_plays(team_code, num_games):
+def get_plays(team_code, num_games=10):
     """
     Gets plays for desired team
     :param team_code: code from json corresponding to desired team
