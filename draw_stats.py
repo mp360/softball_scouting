@@ -27,8 +27,6 @@ def line(img, pt1, pt2, style='solid'):
         if i%2==1:
             cv2.line(img,s,e,(0, 0, 0))
         i+=1
-
-
 def text(img, string, pos):
     cv2.putText(img, string, pos, cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 0, 0))
 def flyballLeft(img, pos, rot, length=100):
@@ -47,7 +45,7 @@ if len(sys.argv) < 3:
 filename = sys.argv[1].split('.')[0]
 team = sys.argv[2]
 counter = 0;
-filenames = []
+jerseys = []
 
 if not os.path.exists('export_' + team):
     os.makedirs('export_' + team)
@@ -95,21 +93,24 @@ for entry in get_roster(team):
         print("invalid entry")
 
     # line(img, (200, 200), (300, 300))
-
     # line(img, (300, 200), (400, 300), style='dotted')
-
     # flyballLeft(img, (500, 200), 0)
-
     # flyballRight(img, (800, 200), 0)
-
     # flyballRight(img, (1200, 200), 0, 300)
     # END OF MARKUP PROCESS
 
-    filenames.append('export_' + team + '/' + filename + '_markedup' + entry['Jersey'] + '.png')
-    cv2.imwrite('export_' + team + '/' + filename + '_markedup' + entry['Jersey'] + '.png', img)
+    jerseys.append(entry['Jersey'])
+    cv2.imwrite('export_' + team + '/markedup_' + entry['Jersey'] + '.png', img)
 
 pdf = FPDF()
-for image in filenames:
+for jersey in jerseys:
+    filename = 'export_' + team + '/markedup_' + str(jersey) + '.png'
+
     pdf.add_page(orientation="L")
-    pdf.image(image, h=175)
+    pdf.image(filename, h=175)
+
+    pdf.add_page(orientation="P")
+    pdf.set_font('Arial', 'B', 11)
+    pdf.cell(40, 10, 'something', 0)
+    
 pdf.output('markedUpScouting.pdf', 'F')
