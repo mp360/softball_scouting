@@ -7,13 +7,14 @@ class MyFirstGUI:
         self.master = master
         master.title("A simple GUI")
 
-        self.label = Label(master, text="Please enter a team number:")
+        self.label = Label(master, text="Please enter a team name:")
         self.label.pack()
 
         with open('2018_all_teams.json') as handle:
           teams = json.loads(handle.read())
         
         teams = [team for team in teams]
+        teams.sort()
 
         myVar = StringVar()
         self.team_name = Combobox(master, values=teams, state="readonly")

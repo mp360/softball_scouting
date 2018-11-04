@@ -92,6 +92,10 @@ def main(team):
         except ValueError:
             print("invalid entry")
 
+        for play in player_dict[entry['Jersey']]:
+            play = play.split("\nPlay: ")[1]
+            print(play)
+
         # line(img, (200, 200), (300, 300))
         # line(img, (300, 200), (400, 300), style='dotted')
         # flyballLeft(img, (500, 200), 0)

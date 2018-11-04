@@ -1,0 +1,327 @@
+Player: Diaz, Destiney
+
+Game 4: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 2
+Play: D Diaz popped up to ss.
+
+Game 4: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 4
+Play: D Diaz popped up to ss.
+
+Game 5: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 2
+Play: D Diaz reached on an error by 3b.
+
+Game 5: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 2
+Play: K Dunn grounded out to 3b3a D Diaz advanced to second.
+
+Game 5: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 4
+Play: D Diaz struck out swinging.
+
+Game 6: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 2
+Play: D Diaz fouled out to c.
+
+Game 6: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 5
+Play: D Diaz struck out looking.
+
+Game 6: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 7
+Play: D Diaz grounded out to 2b.
+
+Game 8: A&M-Corpus Christi vs. Houston Baptist - Inning Number: 6
+Play: D Diaz to ss for K Jackson.
+
+
+
+Player: Helson, Keagan
+
+Game 4: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 1
+Play: K Helson flied out to lf.
+
+Game 4: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 3
+Play: K Helson singled to third base.
+
+Game 4: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 3
+Play: K Sheridan lined out to ss3a K Helson out at first ss to 1b.
+
+Game 4: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 5
+Play: K Helson grounded out to 2b.
+
+Game 5: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 1
+Play: K Helson flied out to rf.
+
+Game 5: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 3
+Play: K Helson struck out swinging.
+
+Game 5: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 5
+Play: K Helson flied out to rf.
+
+Game 6: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 1
+Play: K Helson struck out looking.
+
+Game 6: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 4
+Play: K Helson fouled out to 3b.
+
+Game 6: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 6
+Play: K Helson popped up to 2b.
+
+
+
+Player: Sheridan, Kayla
+
+Game 4: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 1
+Play: K Sheridan singled to shortstop.
+
+Game 4: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 3
+Play: K Sheridan lined out to ss3a K Helson out at first ss to 1b.
+
+Game 5: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 1
+Play: K Sheridan singled to first base.
+
+Game 5: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 1
+Play: K Sheridan out at second c to ss, caught stealing.
+
+Game 5: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 3
+Play: K Sheridan flied out to lf.
+
+Game 6: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 1
+Play: K Sheridan flied out to rf.
+
+Game 6: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 4
+Play: K Sheridan reached on an error by 3b, bunt.
+
+Game 6: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 7
+Play: K Sheridan singled to first base.
+
+Game 6: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 7
+Play: K Johnson out at first 1b to 2b3a K Sheridan advanced to second.
+
+
+
+Player: Ratcliff, Avery
+
+Game 1: A&M-Corpus Christi vs. Incarnate Word - Inning Number: 4
+Play: A Ratcliff to 3b.
+
+Game 4: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 2
+Play: A Ratcliff hit by pitch.
+
+Game 4: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 2
+Play: W Wendel doubled to left field, RBI3a A Ratcliff scored.
+
+Game 4: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 4
+Play: A Ratcliff struck out swinging.
+
+Game 5: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 2
+Play: A Ratcliff struck out swinging.
+
+Game 5: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 5
+Play: A Ratcliff grounded out to 2b.
+
+Game 6: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 3
+Play: A Ratcliff fouled out to 1b.
+
+Game 6: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 6
+Play: A Ratcliff struck out swinging.
+
+
+
+Player: Wendel, Whitney
+
+Game 1: A&M-Corpus Christi vs. Incarnate Word - Inning Number: 4
+Play: T Thomas to dp for W Wendel.
+
+Game 4: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 2
+Play: W Wendel doubled to left field, RBI3a A Ratcliff scored.
+
+Game 4: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 5
+Play: W Wendel walked.
+
+Game 4: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 5
+Play: A Tovar grounded out to 3b3a W Wendel advanced to second.
+
+Game 5: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 2
+Play: W Wendel grounded out to ss.
+
+Game 5: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 4
+Play: W Wendel reached on a fielder's choice3a K Johnson out at second ss unassisted.
+
+Game 6: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 3
+Play: W Wendel out at first p to 2b, bunt.
+
+Game 6: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 5
+Play: W Wendel grounded out to ss.
+
+
+
+Player: Hoppens, Kaylee
+
+Game 2: A&M-Corpus Christi vs. Incarnate Word - Inning Number: 6
+Play: K Hoppens to c for T Thomas.
+
+Game 4: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 1
+Play: K Hoppens lined out to p.
+
+Game 4: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 3
+Play: K Hoppens popped up to 2b.
+
+Game 5: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 1
+Play: K Hoppens walked.
+
+Game 5: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 3
+Play: K Hoppens grounded out to 2b.
+
+Game 6: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 1
+Play: K Hoppens flied out to rf.
+
+Game 6: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 4
+Play: K Hoppens lined out to cf.
+
+Game 6: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 7
+Play: K Hoppens struck out swinging.
+
+
+
+Player: Dunn, Kaylon
+
+Game 1: A&M-Corpus Christi vs. Incarnate Word - Inning Number: 4
+Play: K Dunn to 2b.
+
+Game 5: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 2
+Play: K Dunn grounded out to 3b3a D Diaz advanced to second.
+
+Game 5: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 4
+Play: K Dunn fouled out to 1b.
+
+Game 6: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 2
+Play: K Dunn grounded out to 2b.
+
+Game 6: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 5
+Play: K Dunn lined out to ss.
+
+
+
+Player: Johnson, Kandace
+
+Game 1: A&M-Corpus Christi vs. Incarnate Word - Inning Number: 4
+Play: K Johnson to 1b.
+
+Game 3: A&M-Corpus Christi vs. Incarnate Word - Inning Number: 3
+Play: K Johnson to p.
+
+Game 3: A&M-Corpus Christi vs. Incarnate Word - Inning Number: 7
+Play: K Johnson to dp.
+
+Game 4: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 1
+Play: K Johnson struck out swinging.
+
+Game 4: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 4
+Play: K Johnson popped up to ss.
+
+Game 5: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 1
+Play: K Johnson grounded out to p.
+
+Game 5: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 4
+Play: K Johnson singled through the left side.
+
+Game 5: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 4
+Play: W Wendel reached on a fielder's choice3a K Johnson out at second ss unassisted.
+
+Game 6: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 2
+Play: K Johnson flied out to lf.
+
+Game 6: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 4
+Play: K Johnson popped up to ss.
+
+Game 6: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 7
+Play: K Johnson out at first 1b to 2b3a K Sheridan advanced to second.
+
+
+
+Player: Smith, Ashley
+
+Game 2: A&M-Corpus Christi vs. Incarnate Word - Inning Number: 4
+Play: A Smith to p for A Tovar.
+
+Game 3: A&M-Corpus Christi vs. Incarnate Word - Inning Number: 3
+Play: /  for A Smith.
+
+Game 4: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 2
+Play: A Smith struck out swinging.
+
+Game 7: A&M-Corpus Christi vs. Houston Baptist - Inning Number: 6
+Play: A Tovar to p for A Smith.
+
+
+
+Player: Thomas, Taelor
+
+Game 1: A&M-Corpus Christi vs. Incarnate Word - Inning Number: 4
+Play: T Thomas to dp for W Wendel.
+
+Game 2: A&M-Corpus Christi vs. Incarnate Word - Inning Number: 6
+Play: K Hoppens to c for T Thomas.
+
+Game 3: A&M-Corpus Christi vs. Incarnate Word - Inning Number: 3
+Play: Thomas, B. reached on a fielder's choice (1-1 FB)3a Nevarez, B. out at second c to ss.
+
+Game 3: A&M-Corpus Christi vs. Incarnate Word - Inning Number: 3
+Play: Thomas, B. advanced to second on a wild pitch.
+
+Game 3: A&M-Corpus Christi vs. Incarnate Word - Inning Number: 3
+Play: Bratcher, V. grounded out to 2b (1-1 KB)3a Lopez, M. advanced to second3a Thomas, B. advanced to third.
+
+Game 3: A&M-Corpus Christi vs. Incarnate Word - Inning Number: 3
+Play: Guzman, D. singled through the right side, RBI (0-0)3a Lopez, M. advanced to third3a Thomas, B. scored.
+
+Game 3: A&M-Corpus Christi vs. Incarnate Word - Inning Number: 4
+Play: Thomas, B. struck out looking (2-2 BKFBK).
+
+Game 3: A&M-Corpus Christi vs. Incarnate Word - Inning Number: 7
+Play: Flores, N. pinch hit for Thomas, B..
+
+Game 3: A&M-Corpus Christi vs. Incarnate Word - Inning Number: 7
+Play: Thomas, B. to ss for Flores, N..
+
+Game 3: A&M-Corpus Christi vs. Incarnate Word - Inning Number: 7
+Play: Goins, J. reached on a fielder's choice (0-0)3a Thomas, B. out at second ss to 2b.
+
+
+
+Player: Tovar, Alexis
+
+Game 2: A&M-Corpus Christi vs. Incarnate Word - Inning Number: 4
+Play: A Smith to p for A Tovar.
+
+Game 3: A&M-Corpus Christi vs. Incarnate Word - Inning Number: 7
+Play: A Tovar to p.
+
+Game 4: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 5
+Play: A Tovar grounded out to 3b3a W Wendel advanced to second.
+
+Game 7: A&M-Corpus Christi vs. Houston Baptist - Inning Number: 6
+Play: A Tovar to p for A Smith.
+
+
+
+Player: Jackson, Katrina
+
+Game 4: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 2
+Play: K Jackson grounded out to 3b.
+
+Game 4: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 5
+Play: K Jackson struck out swinging.
+
+Game 5: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 2
+Play: K Jackson walked.
+
+Game 5: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 5
+Play: K Jackson grounded out to ss.
+
+Game 6: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 3
+Play: K Jackson flied out to rf.
+
+Game 6: Nicholls St. vs. A&M-Corpus Christi - Inning Number: 6
+Play: K Jackson popped up to ss.
+
+Game 8: A&M-Corpus Christi vs. Houston Baptist - Inning Number: 6
+Play: D Diaz to ss for K Jackson.
+
+
+
