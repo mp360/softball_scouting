@@ -38,12 +38,11 @@ def flyballRight(img, pos, rot, length=100):
 def calculateWoba(slugPerc, obp):
     return str(round((slugPerc + (obp*2))/3, 2))
 
-if len(sys.argv) < 3:
-    print('Please enter a filename for the blank scouting report and a team number.')
+if len(sys.argv) < 2:
+    print('Please enter a team number.')
     exit(0)
 
-filename = sys.argv[1].split('.')[0]
-team = sys.argv[2]
+team = sys.argv[1]
 counter = 0;
 jerseys = []
 players = get_roster(team)
@@ -55,7 +54,7 @@ if not os.path.exists('export_' + team):
 
 for entry in players:
     counter += 1;
-    img = cv2.imread(filename + '.png')
+    img = cv2.imread('blankScouting.png')
 
     # START OF MARKUP PROCESS
     # choice = 1, 2, 3, or 4
