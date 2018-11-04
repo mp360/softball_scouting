@@ -7,16 +7,24 @@ from genStats import *
 from fpdf import FPDF
 import re
 import nltk
+import math
 
 def randomize(pt):
   offsetX = random.random() * 2 - 1
   offsetY = random.random() * 2 - 1
-  pt = tuple(map(sum,zip(pt, (offsetX * 10, offsetY * 10))))
+  pt = tuple(map(sum,zip(pt, (offsetX * 30, offsetY * 30))))
+  pt = (int(pt[0]), int(pt[1]))
   return pt
-
-def line(img, pt1, pt2, style='solid'):
+def unit_vector(vector):
+    return vector / np.linalg.norm(vector)
+def angle_between(v1, v2):
+    v1_u = unit_vector(v1)
+    v2_u = unit_vector(v2)
+    print(math.pi)
+    return np.arccos(np.clip(np.dot(v1_u, v2_u), -1.0, 1.0)) * 180 / math.pi
+def line(img, pt1, pt2, style='solid', weight=1):
   if style is 'solid':
-    cv2.line(img, (200, 200), (300, 300), (0, 0, 0))
+    cv2.line(img, pt1, pt2, (0, 0, 0), weight)
   elif style is 'dotted':
     dist =((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)**.5
     pts= []
@@ -38,8 +46,14 @@ def line(img, pt1, pt2, style='solid'):
         i+=1
 def text(img, string, pos):
     cv2.putText(img, string, pos, cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 0, 0))
-def flyballLeft(img, pos, rot, length=100):
-    cv2.ellipse(img, pos, (length, 20), rot, 60, 220, (0, 0, 0))
+def flyballLeft(img, pt1, pt2):
+    pt1 = np.array(pt1)
+    pt2 = np.array(pt2)
+    average = tuple((pt1 + pt2) / 2)
+    distance = np.linalg.norm(np.array(pt2) - np.array(pt1))
+    average = (int(average[0]), int(average[1]))
+    print(angle_between(pt1, pt2))
+    cv2.ellipse(img, average, (int(distance), 20), int(angle_between(pt1, pt2)), 60, 220, (0, 0, 0))
 def flyballRight(img, pos, rot, length=100):
     cv2.ellipse(img, pos, (length, 20), rot, -40, 120, (0, 0, 0))
 
@@ -61,18 +75,25 @@ def number_from_name(name):
 
 # constants
 origin = (1150, 1000)
-thirdbase = (900, 1000)
+fb = (1150, 725)
+sb = (900, 725)
+tb = (900, 1000)
+p = (1025, 850)
+c = (1200, 1050)
+ss = (800, 850)
+lf = (550, 800)
+cf = (700, 500)
+rf = (950, 350)
 
+# img = cv2.imread('blankScouting.png')
+# flyballLeft(img, origin, sb)
+# cv2.namedWindow('image',cv2.WINDOW_NORMAL)
+# cv2.imshow('image', img)
+# cv2.resizeWindow('image', 1000, 1000)
+# cv2.waitKey()
+# cv2.destroyAllWindows()
 
-img = cv2.imread('blankScouting.png')
-line(img, randomize(origin), randomize(thirdbase), style='dotted')
-cv2.namedWindow('image',cv2.WINDOW_NORMAL)
-cv2.imshow('image', img)
-cv2.resizeWindow('image', 1000, 1000)
-cv2.waitKey()
-cv2.destroyAllWindows()
-
-def main(team):
+def main(team, markup):
     counter = 0;
     jerseys = []
     players = get_roster(team)
@@ -87,7 +108,6 @@ def main(team):
         img = cv2.imread('blankScouting.png')
 
         # START OF MARKUP PROCESS
-
         try:
             text(img, entry['Player'], (150, 80))
             text(img, entry['Jersey'], (700, 80))
@@ -113,18 +133,37 @@ def main(team):
         except ValueError:
             print("invalid entry")
 
-        for play in player_dict[entry['Jersey']]:
-            play = play.split("\nPlay: ")[1]
+        if markup:
+            for play in player_dict[entry['Jersey']]:
+                play = play.split("\nPlay: ")[1]
 
-            words = nltk.word_tokenize(play)
-            if 'grounded' in words:
-                line(img, randomize(300, 200), randomize(400, 300), style='dotted')
-
-        # line(img, (200, 200), (300, 300))
-        # line(img, (300, 200), (400, 300), style='dotted')
-        # flyballLeft(img, (500, 200), 0)
-        # flyballRight(img, (800, 200), 0)
-        # flyballRight(img, (1200, 200), 0, 300)
+                words = nltk.word_tokenize(play)
+                if '3b' in words or 'third' in words:
+                    final = tb
+                elif 'ss' in words:
+                    final = ss
+                elif '2b' in words:
+                    final = sb
+                elif '1b' in words:
+                    final = fb
+                elif 'lf' in words:
+                    final = lf
+                elif 'rf' in words:
+                    final = rf
+                elif 'rf' in words:
+                    final = rf
+                elif 'p' in words:
+                    final = p
+                elif 'c' in words:
+                    flyballRight(img, origin, 90)
+                    continue
+                
+                if 'popped' in words or 'flied' in words or 'fouled' in words:
+                    line(img, randomize(origin), randomize(final), weight=2)
+                elif 'lined' in words:
+                    line(img, randomize(origin), randomize(final))
+                elif 'grounded' in words:
+                    line(img, randomize(origin), randomize(final), style="dotted")
         # END OF MARKUP PROCESS
 
         jerseys.append((entry['Player'], entry['Jersey']))

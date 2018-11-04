@@ -20,7 +20,11 @@ class MyFirstGUI:
         self.team_name = Combobox(master, values=teams, state="readonly")
         self.team_name.pack()
 
-        self.close_button = Button(master, text="Produce Files", command=lambda: main(number_from_name(self.team_name.get())))
+        markupBool = BooleanVar()
+        self.markup = Checkbutton(master, text="Mark up with line drawings", variable=markupBool)
+        self.markup.pack()
+
+        self.close_button = Button(master, text="Produce Files", command=lambda: main(number_from_name(self.team_name.get()), markupBool.get()))
         self.close_button.pack()
 
 root = Tk()
