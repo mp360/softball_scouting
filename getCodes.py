@@ -4,6 +4,7 @@ import datetime
 import os
 import errno
 import json
+import re
 
 
 def get_teams_by_division(division):
@@ -45,7 +46,9 @@ def generate_text_file(filename, teams):
 def generate_json_file(filename, teams):
     json_filename = filename + ".json"
     silent_remove(json_filename)
-    data = {name: url_suffix for name, url_suffix in teams}
+    data = {}
+    for name, url_suffix in teams:
+        data[name] = re.search("(?<=\/team\/)(.*)(?=\/13430)", url_suffix).group(1)
     with open(json_filename, 'w') as outfile:
         json.dump(data, outfile)
 

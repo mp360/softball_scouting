@@ -1,4 +1,5 @@
-from tkinter import Tk, Label, Button, Text
+from tkinter import *
+from tkinter.ttk import Combobox
 from draw_stats import *
 
 class MyFirstGUI:
@@ -9,10 +10,16 @@ class MyFirstGUI:
         self.label = Label(master, text="Please enter a team number:")
         self.label.pack()
 
-        self.team_number = Text(master)
-        self.team_number.pack()
+        with open('2018_all_teams.json') as handle:
+          teams = json.loads(handle.read())
+        
+        teams = [team for team in teams]
 
-        self.close_button = Button(master, text="Produce Files", command=lambda: main(self.team_number.get('1.0', 'end-1c')))
+        myVar = StringVar()
+        self.team_name = Combobox(master, values=teams, state="readonly")
+        self.team_name.pack()
+
+        self.close_button = Button(master, text="Produce Files", command=lambda: main(number_from_name(self.team_name.get())))
         self.close_button.pack()
 
 root = Tk()

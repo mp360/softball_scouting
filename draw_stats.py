@@ -4,6 +4,7 @@ import sys
 import os
 from genStats import *
 from fpdf import FPDF
+import re
 
 def line(img, pt1, pt2, style='solid'):
   if style is 'solid':
@@ -37,6 +38,18 @@ def flyballRight(img, pos, rot, length=100):
 # calculates the WOBA
 def calculateWoba(slugPerc, obp):
     return str(round((slugPerc + (obp*2))/3, 2))
+
+def number_from_name(name):
+    with open('2018_all_teams.json') as handle:
+        team_dict = json.loads(handle.read())
+
+    team_number = team_dict.get(name)
+
+    if not team_number:
+        print("Team not found, double check text document for team name.")
+        return
+
+    return team_number
 
 def main(team):
     counter = 0;
