@@ -1,0 +1,1002 @@
+A&M-Corpus Christi
+AUM
+Abilene Christian
+Academy of Art
+Adams St.
+Adelphi
+Adrian
+Agnes Scott
+Akron
+Ala.-Huntsville
+Alabama
+Alabama A&M
+Alabama St.
+Albany (NY)
+Albany St. (GA)
+Albertus Magnus
+Albion
+Albright
+Alcorn
+Alderson Broaddus
+Alfred
+Alfred St.
+Allegheny
+Alma
+Alvernia
+Alverno
+American Int'l
+Amherst
+Anderson (IN)
+Anderson (SC)
+Angelo St.
+Anna Maria
+Appalachian St.
+Arcadia
+Arizona
+Arizona St.
+Ark.-Monticello
+Ark.-Pine Bluff
+Arkansas
+Arkansas Tech
+Army West Point
+Ashland
+Assumption
+Auburn
+Augsburg
+Augusta
+Augustana (IL)
+Augustana (SD)
+Aurora
+Austin
+Austin Peay
+Averett
+Azusa Pacific
+BYU
+Babson
+Baldwin Wallace
+Ball St.
+Barry
+Barton
+Baruch
+Bates
+Bay Path
+Baylor
+Becker
+Belhaven
+Bellarmine
+Belmont
+Belmont Abbey
+Beloit
+Bemidji St.
+Benedict
+Benedictine (IL)
+Bentley
+Berea
+Berry
+Bethany (WV)
+Bethany Lutheran
+Bethel (MN)
+Bethune-Cookman
+Binghamton
+Biola
+Birmingham-So.
+Black Hills St.
+Blackburn
+Bloomfield
+Bloomsburg
+Bluefield St.
+Bluffton
+Boise St.
+Boston College
+Boston U.
+Bowdoin
+Bowie St.
+Bowling Green
+Bradley
+Brandeis
+Brevard
+Bridgeport
+Bridgewater (VA)
+Bridgewater St.
+Brockport
+Brooklyn
+Brown
+Bryant
+Bucknell
+Buena Vista
+Buffalo
+Buffalo St.
+Butler
+CMSV
+CSU Bakersfield
+CSUN
+CWRU
+Cabrini
+Cairn
+Cal Lutheran
+Cal Poly
+Cal St. Dom. Hills
+Cal St. East Bay
+Cal St. Fullerton
+Cal St. Monterey Bay
+Cal St. San B'dino
+Cal St. San Marcos
+Caldwell
+California
+California (PA)
+California Baptist
+Calvin
+Cameron
+Campbell
+Canisius
+Capital
+Carleton
+Carroll (WI)
+Carson-Newman
+Carthage
+Castleton
+Catawba
+Catholic
+Cazenovia
+Cedar Crest
+Cedarville
+Centenary (LA)
+Centenary (NJ)
+Central (IA)
+Central Ark.
+Central Conn. St.
+Central Mich.
+Central Mo.
+Central Okla.
+Central Wash.
+Centre
+Chadron St.
+Chaminade
+Chapman
+Charleston (WV)
+Charleston So.
+Charlotte
+Chatham
+Chattanooga
+Chestnut Hill
+Chicago
+Chico St.
+Chowan
+Chris. Newport
+Christian Bros.
+Claflin
+Claremont-M-S
+Clarion
+Clark (MA)
+Clark Atlanta
+Clarks Summit
+Clarkson
+Cleveland St.
+Coast Guard
+Coastal Caro.
+Cobleskill St.
+Coe
+Coker
+Col. of Charleston
+Colby
+Colgate
+Colo. Christian
+Colo. Sch. of Mines
+Colorado Mesa
+Colorado St.
+Colorado St.-Pueblo
+Columbia
+Columbus St.
+Concord
+Concordia (CA)
+Concordia (NY)
+Concordia (TX)
+Concordia Chicago
+Concordia Portland
+Concordia Wisconsin
+Concordia-M'head
+Concordia-St. Paul
+Converse
+Coppin St.
+Cornell
+Cornell College
+Covenant
+Creighton
+Crown (MN)
+Curry
+D'Youville
+Dallas
+Dartmouth
+Davenport
+Davis & Elkins
+Dayton
+DePaul
+DePauw
+DeSales
+Defiance
+Delaware
+Delaware St.
+Delaware Valley
+Delta St.
+Denison
+Detroit Mercy
+Dickinson
+Dixie St.
+Dominican (CA)
+Dominican (IL)
+Dominican (NY)
+Drake
+Drew
+Drexel
+Drury
+Dubuque
+Duke
+ETSU
+East Carolina
+East Central
+East Stroudsburg
+East Tex. Baptist
+East. Mennonite
+Eastern
+Eastern Conn. St.
+Eastern Ill.
+Eastern Ky.
+Eastern Mich.
+Eastern N.M.
+Eastern Nazarene
+Eckerd
+Edgewood
+Edinboro
+Elizabeth City St.
+Elizabethtown
+Elmhurst
+Elmira
+Elms
+Elon
+Embry-Riddle (FL)
+Emerson
+Emmanuel (GA)
+Emmanuel (MA)
+Emory
+Emory & Henry
+Emporia St.
+Endicott
+Erskine
+Eureka
+Evansville
+FDU- Florham
+FGCU
+FIU
+Fairfield
+Fairleigh Dickinson
+Fairmont St.
+Farmingdale St.
+Fayetteville St.
+Felician
+Ferris St.
+Ferrum
+Findlay
+Finlandia
+Fitchburg St.
+Fla. Atlantic
+Fla. Southern
+Flagler
+Florida
+Florida A&M
+Florida St.
+Florida Tech
+Fontbonne
+Fordham
+Fort Hays St.
+Fort Lewis
+Fort Valley St.
+Framingham St.
+Francis Marion
+Franciscan
+Franklin
+Franklin & Marshall
+Franklin Pierce
+Fredonia
+Fresno St.
+Frostburg St.
+Furman
+Ga. Southern
+Ga. Southwestern
+Gallaudet
+Gannon
+Gardner-Webb
+Geneva
+George Fox
+George Mason
+George Washington
+Georgetown
+Georgia
+Georgia College
+Georgia St.
+Georgia Tech
+Georgian Court
+Gettysburg
+Glenville St.
+Goldey-Beacom
+Gordon
+Grambling
+Grand Canyon
+Grand Valley St.
+Green Bay
+Greensboro
+Greenville
+Grinnell
+Grove City
+Guilford
+Gust. Adolphus
+Gwynedd Mercy
+Hamilton
+Hamline
+Hampton
+Hanover
+Hardin-Simmons
+Harding
+Hartford
+Harvard
+Haverford
+Hawaii
+Hawaii Hilo
+Hawaii Pacific
+Heidelberg
+Henderson St.
+Hendrix
+Hilbert
+Hillsdale
+Hiram
+Hofstra
+Holy Cross
+Holy Family
+Holy Names
+Hood
+Hope
+Houghton
+Houston
+Houston Baptist
+Howard
+Howard Payne
+Humboldt St.
+Hunter
+Huntingdon
+Husson
+IUPUI
+Idaho St.
+Ill. Springfield
+Ill. Wesleyan
+Illinois
+Illinois Col.
+Illinois St.
+Immaculata
+Incarnate Word
+Indiana
+Indiana (PA)
+Indiana St.
+Iona
+Iowa
+Iowa St.
+Iowa Wesleyan
+Ithaca
+JWU (Providence)
+Jackson St.
+Jacksonville
+Jacksonville St.
+James Madison
+Jefferson
+John Carroll
+John Jay
+Johnson C. Smith
+Juniata
+Kalamazoo
+Kansas
+Kean
+Keene St.
+Kennesaw St.
+Kent St.
+Kentucky
+Kentucky St.
+Kenyon
+Keuka
+Keystone
+King (TN)
+King's (PA)
+Knox
+Kutztown
+Ky. Wesleyan
+LIU Brooklyn
+LIU Post
+LSU
+La Roche
+La Salle
+La Verne
+La.-Monroe
+LaGrange
+Lafayette
+Lake Erie
+Lake Forest
+Lakeland
+Lamar University
+Lancaster Bible
+Lander
+Lane
+Lasell
+Lawrence
+Le Moyne
+LeMoyne-Owen
+LeTourneau
+Lebanon Valley
+Lee
+Lees-McRae
+Lehigh
+Lehman
+Lenoir-Rhyne
+Lesley
+Lewis
+Lewis & Clark
+Liberty
+Limestone
+Lincoln (MO)
+Lincoln (PA)
+Lincoln Memorial
+Lindenwood (MO)
+Linfield
+Lipscomb
+Livingstone
+Lock Haven
+Long Beach St.
+Longwood
+Loras
+Louisiana
+Louisiana Col.
+Louisiana Tech
+Louisville
+Loyola Chicago
+Loyola Marymount
+Lubbock Christian
+Luther
+Lycoming
+Lynchburg
+Lynn
+MCLA
+MIT
+MSOE
+MSU Denver
+MSU Moorhead
+MSU Texas
+MacMurray
+Macalester
+Maine
+Malone
+Manchester
+Manhattan
+Manhattanville
+Mansfield
+Maranatha Baptist
+Marian (WI)
+Marietta
+Marist
+Mars Hill
+Marshall
+Martin Luther
+Mary
+Mary Baldwin
+Mary Hardin-Baylor
+Mary Washington
+Maryland
+Maryville (MO)
+Maryville (TN)
+Marywood
+Mass. Maritime
+Massachusetts
+McDaniel
+McKendree
+McMurry
+McNeese
+Me.-Farmington
+Me.-Presque Isle
+Medaille
+Memphis
+Mercer
+Mercy
+Mercyhurst
+Meredith
+Merrimack
+Messiah
+Methodist
+Miami (OH)
+Michigan
+Michigan St.
+Middle Tenn.
+Middlebury
+Miles
+Millersville
+Millikin
+Millsaps
+Minn. Duluth
+Minn.-Crookston
+Minn.-Morris
+Minnesota
+Minnesota St.
+Minot St.
+Misericordia
+Mississippi Col.
+Mississippi St.
+Mississippi Val.
+Missouri
+Missouri S&T
+Missouri St.
+Missouri Western
+Mitchell
+Mo. Southern St.
+Mo.-St. Louis
+Molloy
+Monmouth
+Monmouth (IL)
+Mont. St. Billings
+Montana
+Montclair St.
+Montevallo
+Moravian
+Morehead St.
+Morgan St.
+Morrisville St.
+Mount Aloysius
+Mount Ida
+Mount Mary
+Mount Olive
+Mount Union
+Mt. St. Joseph
+Mt. St. Mary (NY)
+Mt. St. Mary's
+Muhlenberg
+Murray St.
+Muskingum
+N.C. A&T
+N.C. Central
+N.C. Wesleyan
+N.M. Highlands
+NC State
+NVU-Johnson
+NVU-Lyndon
+NYIT
+NYU
+Nazareth
+Neb. Wesleyan
+Neb.-Kearney
+Nebraska
+Neumann
+Nevada
+New England Col.
+New Haven
+New Jersey City
+New Mexico
+New Mexico St.
+New Rochelle
+Newberry
+Newbury
+Newman
+Niagara
+Nicholls St.
+Nichols
+Norfolk St.
+North Ala.
+North Carolina
+North Central (IL)
+North Central (MN)
+North Dakota
+North Dakota St.
+North Florida
+North Georgia
+North Greenville
+North Park
+North Texas
+Northeastern St.
+Northern Colo.
+Northern Ill.
+Northern Ky.
+Northern St.
+Northland
+Northwest Mo. St.
+Northwest Nazarene
+Northwestern
+Northwestern Okla.
+Northwestern St.
+Northwestern-St. Paul
+Northwood
+Norwich
+Notre Dame
+Notre Dame (MD)
+Notre Dame (OH)
+Notre Dame de Namur
+Nova Southeastern
+Nyack
+Oakland
+Oakland City
+Oberlin
+Occidental
+Ohio
+Ohio Dominican
+Ohio Northern
+Ohio St.
+Ohio Valley
+Ohio Wesleyan
+Okla. Baptist
+Okla. Christian
+Oklahoma
+Oklahoma St.
+Old Westbury
+Ole Miss
+Olivet
+Omaha
+Oregon
+Oregon St.
+Oswego St.
+Otterbein
+Ouachita Baptist
+Ozarks (AR)
+Pace
+Pacific
+Pacific (OR)
+Pacific Lutheran
+Paine
+Palm Beach Atl.
+Penn
+Penn College
+Penn St.
+Penn St. Harrisburg
+Penn St.-Abington
+Penn St.-Altoona
+Penn St.-Behrend
+Penn St.-Berks
+Pfeiffer
+Piedmont
+Pine Manor
+Pitt.-Bradford
+Pitt.-Greensburg
+Pitt.-Johnstown
+Pittsburg St.
+Pittsburgh
+Plattsburgh St.
+Plymouth St.
+Pomona-Pitzer
+Portland St.
+Post
+Prairie View
+Presbyterian
+Princeton
+Principia
+Providence
+Puget Sound
+Purchase
+Purdue
+Purdue Fort Wayne
+Purdue Northwest
+Queens (NC)
+Queens (NY)
+Quincy
+Quinnipiac
+RIT
+Radford
+Ramapo
+Randolph
+Randolph-Macon
+Redlands
+Regis (CO)
+Regis (MA)
+Rensselaer
+Rhode Island
+Rhode Island Col.
+Rhodes
+Rider
+Ripon
+Rivier
+Roanoke
+Robert Morris
+Rochester (NY)
+Rockford
+Rockhurst
+Roger Williams
+Rogers St.
+Rollins
+Rose-Hulman
+Rosemont
+Rowan
+Rutgers
+Rutgers-Camden
+Rutgers-Newark
+S.C. Aiken
+SFA
+SIUE
+SUNY Canton
+SUNY Cortland
+SUNY Geneseo
+SUNY New Paltz
+SUNY Oneonta
+SUNY Poly
+SUNY Potsdam
+Sacramento St.
+Sacred Heart
+Sage Colleges
+Saginaw Valley
+Saint Augustine's
+Saint Benedict
+Saint Francis (PA)
+Saint Joseph's
+Saint Leo
+Saint Louis
+Saint Martin's
+Saint Mary's (CA)
+Saint Mary's (MN)
+Saint Michael's
+Saint Peter's
+Saint Rose
+Saint Vincent
+Salem (NC)
+Salem (WV)
+Salem St.
+Salisbury
+Salve Regina
+Sam Houston St.
+Samford
+San Diego
+San Diego St.
+San Fran. St.
+San Jose St.
+Santa Clara
+Sarah Lawrence
+Savannah St.
+Schreiner
+Scranton
+Seattle U
+Seton Hall
+Seton Hill
+Sewanee
+Shaw
+Shenandoah
+Shepherd
+Shippensburg
+Shorter
+Siena
+Simmons
+Simon Fraser
+Simpson
+Sioux Falls
+Skidmore
+Slippery Rock
+Smith
+Sonoma St.
+South Alabama
+South Carolina
+South Carolina St.
+South Dakota
+South Dakota St.
+South Fla.
+Southeast Mo. St.
+Southeastern La.
+Southeastern Okla.
+Southern Ark.
+Southern Conn. St.
+Southern Ill.
+Southern Ind.
+Southern Me.
+Southern Miss.
+Southern N.H.
+Southern Nazarene
+Southern U.
+Southern Utah
+Southern Va.
+Southern Vt.
+Southern Wesleyan
+Southwest Baptist
+Southwest Minn. St.
+Southwestern (TX)
+Southwestern Okla.
+Spalding
+Spring Hill
+Springfield
+St. Anselm
+St. Bonaventure
+St. Catherine
+St. Cloud St.
+St. Edward's
+St. Elizabeth
+St. John Fisher
+St. John's (NY)
+St. Joseph (CT)
+St. Joseph's (Brkln)
+St. Joseph's (L.I.)
+St. Joseph's (ME)
+St. Lawrence
+St. Mary's (IN)
+St. Mary's (TX)
+St. Norbert
+St. Olaf
+St. Scholastica
+St. Thomas (MN)
+St. Thomas Aquinas
+Stanford
+Stanislaus St.
+Staten Island
+Stetson
+Stevens
+Stevenson
+Stockton
+Stonehill
+Stony Brook
+Suffolk
+Sul Ross St.
+Susquehanna
+Swarthmore
+Syracuse
+TCNJ
+Tampa
+Tarleton St.
+Tennessee
+Tennessee St.
+Tennessee Tech
+Tex. A&M Int'l
+Tex. A&M-Commerce
+Tex. A&M-Kingsville
+Tex. Permian Basin
+Texas
+Texas A&M
+Texas Lutheran
+Texas Southern
+Texas St.
+Texas Tech
+Texas Woman's
+Texas-Dallas
+Texas-Tyler
+Thiel
+Thomas (ME)
+Thomas More
+Tiffin
+Toledo
+Towson
+Transylvania
+Trevecca Nazarene
+Trine
+Trinity (CT)
+Trinity (TX)
+Trinity Washington
+Troy
+Truman
+Tufts
+Tulsa
+Tusculum
+Tuskegee
+U New England
+UAB
+UC Davis
+UC Riverside
+UC San Diego
+UC Santa Barbara
+UC-Colo. Springs
+UCF
+UCLA
+UConn
+UIC
+UIndy
+UMBC
+UMES
+UMKC
+UMass Boston
+UMass Dartmouth
+UMass Lowell
+UNC Greensboro
+UNC Pembroke
+UNCW
+UNI
+UNLV
+USC Upstate
+USciences
+UT Arlington
+UT Martin
+UTEP
+UTSA
+UVa-Wise
+Union (NY)
+Union (TN)
+Upper Iowa
+Urbana
+Ursinus
+Ursuline
+Utah
+Utah St.
+Utah Valley
+Utica
+Va. Wesleyan
+Valdosta St.
+Valley Forge
+Valparaiso
+Villanova
+Virginia
+Virginia St.
+Virginia Tech
+Virginia Union
+WPI
+Wagner
+Walsh
+Wartburg
+Wash. & Jeff.
+Washburn
+Washington
+Washington Col.
+Washington-St. Louis
+Wayne St. (MI)
+Wayne St. (NE)
+Waynesburg
+Weber St.
+Webster
+Wellesley
+Wells
+Wentworth
+Wesley
+Wesleyan (CT)
+Wesleyan (GA)
+West Ala.
+West Chester
+West Florida
+West Ga.
+West Liberty
+West Tex. A&M
+West Va. Wesleyan
+West Virginia St.
+Western Caro.
+Western Conn. St.
+Western Ill.
+Western Ky.
+Western Mich.
+Western N.M.
+Western New Eng.
+Western Ore.
+Western Wash.
+Westfield St.
+Westminster (MO)
+Westminster (PA)
+Wheaton (IL)
+Wheaton (MA)
+Wheeling Jesuit
+Wheelock
+Whittier
+Whitworth
+Wichita St.
+Widener
+Wilkes
+Willamette
+William Jewell
+William Peace
+Williams
+Wilmington (DE)
+Wilmington (OH)
+Wilson
+Wingate
+Winona St.
+Winston-Salem
+Winthrop
+Wis. Lutheran
+Wis.-Eau Claire
+Wis.-La Crosse
+Wis.-Oshkosh
+Wis.-Parkside
+Wis.-Platteville
+Wis.-River Falls
+Wis.-Stevens Point
+Wis.-Stout
+Wis.-Superior
+Wis.-Whitewater
+Wisconsin
+Wittenberg
+Wm. Paterson
+Wooster
+Worcester St.
+Wright St.
+Yale
+Yeshiva
+York (NY)
+York (PA)
+Young Harris
+Youngstown St.
